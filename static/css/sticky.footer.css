@@ -42,5 +42,5 @@ body {
 
 /* Required IF using a fixed navbar */
 #wrap > .container {
-  padding-top: 60px;
+  padding-top: 10px;
 }
