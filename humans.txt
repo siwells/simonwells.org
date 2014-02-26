@@ -1,0 +1,33 @@
+# humanstxt.org/
+
+/* OWNER & DEVELOPER */
+	Name: Simon Wells
+	Contact: mail[at]simonwells.org
+	From: Scotland, U.K.
+	
+/* SITE */
+	last Update: 2014/02/26
+	URL: http://www.simonwells.org
+	Language: English
+	Doctype: 
+	Fonts: 
+
+/* STANDARDS */
+	HTML5: http://w3.org/TR/html5/
+	CSS3: http://w3.org/TR/CSS/#css3
+
+/* LANGUAGES */
+	HTML
+	CSS
+	JavaScript
+
+/* COMPONENTS */
+    Bootstrap: http://getbootstrap.com/
+	jQuery: http://jquery.com/
+	
+/* SERVICES */
+
+/* SOFTWARE */
+    VIM
+
+/* THANKS */
