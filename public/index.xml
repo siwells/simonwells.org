@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr Simon Wells</title>
+    <link>http://www.simonwells.org/</link>
+    <description>Recent content on Dr Simon Wells</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2001-2018 - Simon Wells</copyright>
+    <lastBuildDate>Mon, 09 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.simonwells.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>http://www.simonwells.org/publications/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/publications/</guid>
+      <description>T. Yuan &amp; S. Wells (2017) &#34;ProtOCL: Specifying Dialogue Games Using UML and OCL&#34;
+Argument Technologies: Theory, Analysis, and Applications volume 2, Studies in Logic and Argumentation 68, chapter 9, pp.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.simonwells.org/projects/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/projects/</guid>
+      <description>SUStainable and PERsuasive Human Users moBility in future cities (SUPERHUB) – A large EU FP7 IP project. [STATUS: PROJECT COMPLETED 30th November 2014]
+ The Dialogue Game Description Language (DGDL), a domain specific language and supporting toolkit for describing the rules of diverse dialectical games.</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>http://www.simonwells.org/talks/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/talks/</guid>
+      <description>&amp;ldquo;The role of faulty inferences in interrogation dialogues&amp;rdquo;, presented at the Second European Conference on Argumentation (ECA2017), Fribourg, Switzerland, on Wednesday 21st June 2017.
+[ pdf ]  &amp;ldquo;Monkeypuzzle: Towards Next Generation, Free &amp; Open-Source, Argument Analysis Tools&amp;rdquo;, presented at the Seventeenth International Workshop on Computational Models of Natural Argument (CMNA17), London, England, on Friday 16th June 2017.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://www.simonwells.org/teaching/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/teaching/</guid>
+      <description>Current Taught Courses &amp;amp; Modules I am Module Leader for the following modules:
+ SET08101: Web Tech SET08114: Mobile Application Development SET09103: Advanced Web Tech SET09117: Algorithms &amp;amp; Data Structures  I also supervise honours, masters, and phd projects.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.simonwells.org/contact/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/contact/</guid>
+      <description> Email: s.wells@napier.ac.uk Landline: 0131 455 2893  </description>
+    </item>
+    
+    <item>
+      <title>Bio</title>
+      <link>http://www.simonwells.org/bio/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/bio/</guid>
+      <description>Simon Wells is a lecturer in the School of Computing at Edinburgh Napier University.
+His research interests lie generally in Artificial Intelligence with a specific focus on reasoning, decision-making, and strategic interaction achieved via formal and applied argumentation-based techniques.</description>
+    </item>
+    
+    <item>
+      <title>Update</title>
+      <link>http://www.simonwells.org/news/about/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/news/about/</guid>
+      <description>A new look but the same content. Moved from a hand-generated static site that had served me well for nearly ten years to a Hugo generated static site. The design is modern and clean and should be a little easier to keep up to date.</description>
+    </item>
+    
+  </channel>
+</rss>
