@@ -1,0 +1,28 @@
+baseURL = "http://www.simonwells.org"
+languageCode = "en-us"
+title = "Dr Simon Wells"
+copyright = "Copyright &copy; 2001-2018 - Simon Wells"
+theme = "kiera"
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+    name = "Simon Wells"
+    github = "siwells"
+    gitlab = ""
+    linkedin = ""
+    facebook = ""
+    twitter = ""
+    instagram = ""
+    googlescholar = "NJ4EZFwAAAAJ"
+    orcid = "0000-0003-4512-7868"
+    figshare = "Simon Wells/98148"
+    researchgate = "Simon_Wells3"
+
+[params]
+    tagline = "sesquipedalia verba"
+
