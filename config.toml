@@ -1,5 +1,5 @@
 baseurl = "http://www.simonwells.org"
-languageCode = "en-us"
+languageCode = "en-gb"
 title = "Dr Simon Wells"
 copyright = "Copyright &copy; 2001-2018 - Simon Wells"
 theme = "kiera"
