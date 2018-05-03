@@ -1,5 +1,7 @@
 baseurl = "http://www.simonwells.org"
 languageCode = "en-gb"
+publishdir = "docs"
+
 title = "Dr Simon Wells"
 copyright = "Copyright &copy; 2001-2018 - Simon Wells"
 theme = "kiera"
