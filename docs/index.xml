@@ -72,20 +72,29 @@ His research interests lie generally in Artificial Intelligence with a specific 
     </item>
     
     <item>
+      <title>Trust In Intelligent Machines Workshop</title>
+      <link>http://www.simonwells.org/news/2018.05.06_first-trust-workshop/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/news/2018.05.06_first-trust-workshop/</guid>
+      <description>Along with my colleagues, Simon Powers &amp;amp; Cedric Perret, we are hosting a workshop at Edinburgh Napier University&amp;rsquo;s Sighthill campus on the topic of &amp;ldquo;Trust in Intelligent Machines&amp;rdquo;. Our broad goal is to explore some of the issues and probelms associated with increasing delegation of decision making to artificially intelligent machines where the outcomes affect the well being of humans.</description>
+    </item>
+    
+    <item>
       <title>Ph.D Studentship in Argument Mining</title>
-      <link>http://www.simonwells.org/news/advert_2018-05-31/</link>
+      <link>http://www.simonwells.org/news/2018.05.04_advert_2018-05-31/</link>
       <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.simonwells.org/news/advert_2018-05-31/</guid>
+      <guid>http://www.simonwells.org/news/2018.05.04_advert_2018-05-31/</guid>
       <description>Argument Mining, the process of detecting, reconstructing, and extracting argument structure from natural language sources has become a hot topic in Argumentation research in recent years. This is a challenging, multi-disciplinary arena whose questions go to the heart of classical Artificial Intelligence problems related to Knowledge Representation and Natural Language Processing.</description>
     </item>
     
     <item>
       <title>Update</title>
-      <link>http://www.simonwells.org/news/update/</link>
+      <link>http://www.simonwells.org/news/2018.05.03_update/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.simonwells.org/news/update/</guid>
+      <guid>http://www.simonwells.org/news/2018.05.03_update/</guid>
       <description>A new look but the same content. Moved from a hand-generated static site that had served me well for nearly ten years to a Hugo generated static site. The design is modern and clean and should be a little easier to keep up to date.</description>
     </item>
     
