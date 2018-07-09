@@ -18,8 +18,8 @@
       <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.simonwells.org/publications/</guid>
-      <description>T. Yuan &amp; S. Wells (2017) &#34;ProtOCL: Specifying Dialogue Games Using UML and OCL&#34;
-Argument Technologies: Theory, Analysis, and Applications volume 2, Studies in Logic and Argumentation 68, chapter 9, pp.</description>
+      <description>S. Wells &amp; A. Baker (2018) &#34;Lying in Real World Argumentative Dialogue Systems&#34;
+Abstract for paper presented at the 9th Conference of the International Society for the Study of Argumentation (ISSA), University of Amsterdam, NL.</description>
     </item>
     
     <item>
@@ -38,8 +38,7 @@ Argument Technologies: Theory, Analysis, and Applications volume 2, Studies in L
       <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.simonwells.org/talks/</guid>
-      <description>&amp;ldquo;The role of faulty inferences in interrogation dialogues&amp;rdquo;, presented at the Second European Conference on Argumentation (ECA2017), Fribourg, Switzerland, on Wednesday 21st June 2017.
-[ pdf ] &amp;ldquo;Monkeypuzzle: Towards Next Generation, Free &amp; Open-Source, Argument Analysis Tools&amp;rdquo;, presented at the Seventeenth International Workshop on Computational Models of Natural Argument (CMNA17), London, England, on Friday 16th June 2017.</description>
+      <description>&amp;ldquo;MIND THE GAPS: Deception in real world argumentative dialogue systems&amp;rdquo;, presented at the 9th Conference of the International Society for the Study of Argumentation (ISSA), University of Amsterdam, NL, on Friday 6th July 2018.</description>
     </item>
     
     <item>
@@ -72,6 +71,15 @@ His research interests lie generally in Artificial Intelligence with a specific 
     </item>
     
     <item>
+      <title>SICSA Reasoning, Learning, &amp; Explainability (ReaLX) Workshop</title>
+      <link>http://www.simonwells.org/news/2018.06.27_realx/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/news/2018.06.27_realx/</guid>
+      <description>I presented a paper at the SICSA AI Theme workshop on Reasoning, Learning, &amp;amp; Explainability (ReaLX) hosted by Robert Gordon University in Aberdeen. My paper was on the subject of argumentative dialogue protocols and argumentation schemes as a fundamental and humange framework for achieving composable and explainable AI systems.</description>
+    </item>
+    
+    <item>
       <title>Trust In Intelligent Machines Workshop</title>
       <link>http://www.simonwells.org/news/2018.05.06_first-trust-workshop/</link>
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
@@ -96,6 +104,15 @@ His research interests lie generally in Artificial Intelligence with a specific 
       
       <guid>http://www.simonwells.org/news/2018.05.03_update/</guid>
       <description>A new look but the same content. Moved from a hand-generated static site that had served me well for nearly ten years to a Hugo generated static site. The design is modern and clean and should be a little easier to keep up to date.</description>
+    </item>
+    
+    <item>
+      <title>Uncovering Dark Patterns in Persuasive Technology Workshop @ Persuasive 2018</title>
+      <link>http://www.simonwells.org/news/2018.04.17_dark.patterns.workshop/</link>
+      <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/news/2018.04.17_dark.patterns.workshop/</guid>
+      <description>With my colleagues, Prof. Agnis Stibe (Paris ESLSCA Business School, France), Dr. Kate Pangbourne (University of Leeds, UK), Dr. Brian Cugelman (AlterSpark, Toronto, ON, Canada), and Anne-Kathrine Kjær Christensen (Specifii, Copenhagen, Denmark) we ran a workshop on Dark Patterns in Persuasive technology at the Persuasive 2018 Conference.</description>
     </item>
     
   </channel>

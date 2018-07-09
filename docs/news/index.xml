@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; 2001-2018 - Simon Wells</copyright>
-    <lastBuildDate>Sun, 06 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.simonwells.org/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SICSA Reasoning, Learning, &amp; Explainability (ReaLX) Workshop</title>
+      <link>http://www.simonwells.org/news/2018.06.27_realx/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/news/2018.06.27_realx/</guid>
+      <description>I presented a paper at the SICSA AI Theme workshop on Reasoning, Learning, &amp;amp; Explainability (ReaLX) hosted by Robert Gordon University in Aberdeen. My paper was on the subject of argumentative dialogue protocols and argumentation schemes as a fundamental and humange framework for achieving composable and explainable AI systems.</description>
+    </item>
     
     <item>
       <title>Trust In Intelligent Machines Workshop</title>
@@ -37,6 +46,15 @@
       
       <guid>http://www.simonwells.org/news/2018.05.03_update/</guid>
       <description>A new look but the same content. Moved from a hand-generated static site that had served me well for nearly ten years to a Hugo generated static site. The design is modern and clean and should be a little easier to keep up to date.</description>
+    </item>
+    
+    <item>
+      <title>Uncovering Dark Patterns in Persuasive Technology Workshop @ Persuasive 2018</title>
+      <link>http://www.simonwells.org/news/2018.04.17_dark.patterns.workshop/</link>
+      <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/news/2018.04.17_dark.patterns.workshop/</guid>
+      <description>With my colleagues, Prof. Agnis Stibe (Paris ESLSCA Business School, France), Dr. Kate Pangbourne (University of Leeds, UK), Dr. Brian Cugelman (AlterSpark, Toronto, ON, Canada), and Anne-Kathrine Kjær Christensen (Specifii, Copenhagen, Denmark) we ran a workshop on Dark Patterns in Persuasive technology at the Persuasive 2018 Conference.</description>
     </item>
     
   </channel>
