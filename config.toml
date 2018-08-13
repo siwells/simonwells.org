@@ -26,4 +26,5 @@ pygmentsCodeFences = true
 
 [params]
     tagline = "sesquipedalia verba"
+    description = "my academic life"
 

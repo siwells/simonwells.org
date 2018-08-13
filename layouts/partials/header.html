@@ -15,7 +15,10 @@
                 <a href="{{ relURL "/" }}">{{ .Site.Title | markdownify }}</a>
             </h1>
 
-      <ul id="social-media">
+<div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center header-links">
         {{ if .Site.Author.twitter }}
         <li><a href="https://twitter.com/{{ .Site.Author.twitter }}"><i class="fa fa-twitter fa-lg" aria-hidden="true"></i></a></li>
         {{ end }} {{ if .Site.Author.linkedin }}
@@ -29,18 +32,23 @@
         {{ end }} {{ if .Site.Author.instagram }}
         <li><a href="https://instagram.com/{{ .Site.Author.instagram }}"><i class="fa fa-instagram fa-lg" aria-hidden="true"></i></a></li>
         {{ end }} {{ if .Site.Author.googlescholar }}
-        <li><a href="http://scholar.google.co.uk/citations?hl=en&user={{ .Site.Author.googlescholar }}"><i class="ai ai-google-scholar ai-lg"></i></li>
+        <li><a href="http://scholar.google.co.uk/citations?hl=en&amp;user={{ .Site.Author.googlescholar }}"><i class="ai ai-google-scholar ai-lg"></i></a></li>
         {{ end }} {{ if .Site.Author.orcid }}
-        <li><a href="http://orcid.org/{{ .Site.Author.orcid }}"><i class="ai ai-orcid ai-lg"></i></li>
+        <li><a href="http://orcid.org/{{ .Site.Author.orcid }}"><i class="ai ai-orcid ai-lg"></i></a></li>
         {{ end }} {{ if .Site.Author.figshare }}
-        <li><a href="http://figshare.com/authors/{{ .Site.Author.figshare }}"><i class="ai ai-figshare ai-lg"></i></li>
+        <li><a href="http://figshare.com/authors/{{ .Site.Author.figshare }}"><i class="ai ai-figshare ai-lg"></i></a></li>
         {{ end }} {{ if .Site.Author.researchgate }}
-        <li><a href="https://www.researchgate.net/profile/{{ .Site.Author.researchgate }}"><i class="ai ai-researchgate ai-lg"></i></li>
+        <li><a href="https://www.researchgate.net/profile/{{ .Site.Author.researchgate }}"><i class="ai ai-researchgate ai-lg"></i></a></li>
         {{ end }}
       </ul>
       {{ with .Site.Params.tagline }}
       <p><em>{{ . | markdownify }}</em></p>
       {{ end }}
+      </div>
+       </div>
+
+ </div>
+
     </header>
 
     {{ partial "nav" . }}
