@@ -8,6 +8,9 @@ meta = "false"
 
 <ol reversed>
 
+<li><a id="eca2017" style="visibility: hidden"></a>&ldquo;Introduction to Programming: AKA My Struggle || Things you probably shouldn't do in the browser console&rdquo;, presented to the incoming freshers of the School of Computing, Edinburgh Napier University, on Friday 14th September 2018.<br />
+
+<div style="text-align: right">[ <a href="/assets/talks/2018.09.14_freshers.pdf">pdf (slides)</a> ]</div></li>
 
 <li><a id="eca2017" style="visibility: hidden"></a>&ldquo;MIND THE GAPS: Deception in real world argumentative dialogue systems&rdquo;, presented at the  9th Conference of the International Society for the Study of Argumentation (ISSA), University of Amsterdam, NL, on Friday 6th July 2018.<br />
 
