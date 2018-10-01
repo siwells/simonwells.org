@@ -30,6 +30,11 @@ A. Stibe, K. Pangbourne, S. Wells, B. Cugelman, and A. Kjaer Christensen (2018) 
 In: Ham J., Karapanos E., Morita P., Burns C. (eds) Adjunct Proceedings of Persuasive Technology. PERSUASIVE 2018<br /> 
  <div style="text-align: right">[ <a href="/assets/papers/stibe_2018_dark.patterns.pdf">pdf (eprint)</a> ]</div><br/></li>
 
+<li>
+<a id="pangbourne_2018_utsg" style="visibility: hidden"></a>K. Pangbourne, A. Baker, S. Wells, & S. Bennett (2018) "<em>Arguing Effectively for Modal Shift</em>"<br />
+Paper presented to the Universities Transport Studies Group 50th Annual Conference (<a href="http://utsg.net/annual-conference">UTSG 2018</a>), London, UK.<br /> 
+ <div style="text-align: right">[ <a href="#">pdf (eprint)</a> ]</div><br/></li>
+
 
 <li><a id="yuan_2017_sil68" style="visibility: hidden"></a>T. Yuan  & S. Wells (2017) "<em>ProtOCL: Specifying Dialogue Games Using UML and OCL</em>"<br />
 Argument Technologies: Theory, Analysis, and Applications <a href="http://www.collegepublications.co.uk/logic/sla/?00008">volume 2</a>, Studies in Logic and Argumentation 68, chapter 9, pp. 151-163, College Publications.<br /> 
