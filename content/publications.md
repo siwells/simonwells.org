@@ -37,6 +37,12 @@ Paper presented to the Universities Transport Studies Group 50th Annual Conferen
  <div style="text-align: right">[ <a href="#">pdf (eprint)</a> ]</div><br/></li>
 
 
+<li><a id="baker_2017_ptai" style="visibility: hidden"></a>A. Baker & S. Wells (2017) "<em>When Should We Let AIs Persuade?</em>"<br />
+Abstract for paper presented at the 3rd Philosophy and Theory of Artificial Intelligence (<a href="http://www.pt-ai.org/2017/">PT AI</a>), Leeds, UK.<br /> 
+ <div style="text-align: right">Abstract: [ <a href="#">pdf (eprint)</a> ]</div><br/></li>
+
+
+
 <li><a id="yuan_2017_sil68" style="visibility: hidden"></a>T. Yuan  & S. Wells (2017) "<em>ProtOCL: Specifying Dialogue Games Using UML and OCL</em>"<br />
 Argument Technologies: Theory, Analysis, and Applications <a href="http://www.collegepublications.co.uk/logic/sla/?00008">volume 2</a>, Studies in Logic and Argumentation 68, chapter 9, pp. 151-163, College Publications.<br /> 
  <div style="text-align: right">[ <a href="/assets/papers/yuan_2017_sil68.pdf">pdf (eprint)</a> | <a href="http://www.collegepublications.co.uk/logic/sla/?00008">Publisher</a> | <a href="https://www.amazon.co.uk/Argument-Technologies-Theory-Analysis-Applications/dp/1848902182/ref=sr_1_1?ie=UTF8&qid=1511179490&sr=8-1&keywords=Argument+Technologies++Theory%2C+Analysis%2C+and+Applications">Amazon</a> ]</div><br/></li> 
