@@ -43,7 +43,7 @@ Argument Technologies: Theory, Analysis, and Applications <a href="http://www.co
 
 
 <li>
-<a id="wells_2017_interrogation" style="visibility: hidden"></a>T. Farrenkopf, M. Guckert, N. Urquhart, & S. Wells (2017) "<em>Information Diffusion in Multi-Agent Communities</em>"<br />
+<a id="farrenkopf_2017_diffusion" style="visibility: hidden"></a>T. Farrenkopf, M. Guckert, N. Urquhart, & S. Wells (2017) "<em>Information Diffusion in Multi-Agent Communities</em>"<br />
 Abstract for paper presented at the 6th World Congress of the International Microsimulation Association (<a href="http://www.carloalberto.org/ima-2017">IMA 2017</a>), Torino, Italy<br /> 
  <div style="text-align: right">Abstract: [ <a href="/assets/papers/farrenkopf_2017_information.diffusion.pdf">pdf (eprint)</a> ]</div><br/></li>
 
