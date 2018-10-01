@@ -11,6 +11,14 @@ meta = "false"
 <ol reversed>
 
 
+<li><a id="andras_2018_ieee" style="visibility: hidden"></a>Peter Andras, Lukas Esterle, Michael Guckert, The Anh Han, Peter R. Lewis, Kristina Milanovic, Terry Payne, Cedric Perret, Jeremy Pitt, Simon T. Powers, Neil Urquhart and Simon Wells (2018) "<em><a href="#">Trusting Intelligent Machines: Deepening trust within socio-technical systems</a></em>"<br />
+IEEE Technology and Society Magazine<a href="#"></a>.<br /> 
+ <div style="text-align: right">doi (paper): [<a href=""></a>  <a href="">pdf</a> ]</div>
+ <div style="text-align: right">eprint:<a href=""></a> [ <a href="">pdf</a> ]</div>
+ <br/></li> 
+
+
+
 <li>
 <a id="wells_2018_issa" style="visibility: hidden"></a>S. Wells & A. Baker (2018) "<em>Lying in Real World Argumentative Dialogue Systems</em>"<br />
 Abstract for paper presented at the 9th Conference of the International Society for the Study of Argumentation (ISSA), University of Amsterdam, NL.<br /> 
