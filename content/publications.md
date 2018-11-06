@@ -23,7 +23,7 @@ IEEE Technology and Society Magazine<a href="#"></a>.<br />
 <a id="wells_2018_issa" style="visibility: hidden"></a>S. Wells & A. Baker (2018) "<em>Lying in Real World Argumentative Dialogue Systems</em>"<br />
 Abstract for paper presented at the 9th Conference of the International Society for the Study of Argumentation (ISSA), University of Amsterdam, NL.<br /> 
  <div style="text-align: right">Abstract: [ <a href="/assets/papers/wells_2018_issa+abstract.pdf">pdf (eprint)</a> ]</div>
-  <div style="text-align: right">Paper: [ <a href="#">pdf (eprint)</a> ]</div><br/></li>
+  <div style="text-align: right">Paper: [ <a href="/assets/papers/wells_2018_issa.pdf">pdf (eprint)</a> ]</div><br/></li>
 
 
 <li>
