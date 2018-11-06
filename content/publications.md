@@ -14,7 +14,7 @@ meta = "false"
 <li><a id="andras_2018_ieee" style="visibility: hidden"></a>Peter Andras, Lukas Esterle, Michael Guckert, The Anh Han, Peter R. Lewis, Kristina Milanovic, Terry Payne, Cedric Perret, Jeremy Pitt, Simon T. Powers, Neil Urquhart and Simon Wells (2018) "<em><a href="#">Trusting Intelligent Machines: Deepening trust within socio-technical systems</a></em>"<br />
 IEEE Technology and Society Magazine<a href="#"></a>.<br /> 
  <!--<div style="text-align: right">doi (paper): [<a href="#"></a> ]</div>-->
- <div style="text-align: right">eprint: [ <a href="/assets/papers/andras_2018_ieee.pdf">pdf</a> ]</div>
+ <div style="text-align: right">paper: [ <a href="/assets/papers/andras_2018_ieee.pdf">pdf (eprint)</a> ]</div>
  <br/></li> 
 
 
