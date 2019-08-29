@@ -12,6 +12,12 @@ meta = "false"
 
 
 <li>
+<a id="wells_2019_eca+partisan+abstract" style="visibility: hidden"></a>S. Wells (2019) "<em>A Paroxysm of Dissent: Partisan Political Advertising During the Brexit Campaign</em>"<br />
+Abstract for paper presented at the 3rd European Conference on Argumentation: Reason to Dissent (ECA19), Groningen, Nethlands<br /> 
+ <div style="text-align: right">Abstract: [ <a href="/assets/papers/wells_2019_eca+partisan+abstract.pdf">pdf (eprint)</a> ]</div><br/></li>
+
+
+<li>
 <a id="wells_2019_eca+strength+abstract" style="visibility: hidden"></a>S. Wells (2019) "<em>The Computational Approach to Argument Strength</em>"<br />
 Abstract for contribution to the Symposium on Argument Strength which was hosted at the 3rd European Conference on Argumentation: Reason to Dissent (ECA19), Groningen, Nethlands<br /> 
  <div style="text-align: right">Abstract: [ <a href="/assets/papers/wells_2019_eca+strength+abstract.pdf">pdf (eprint)</a> ]</div><br/></li>
