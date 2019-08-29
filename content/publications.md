@@ -11,12 +11,17 @@ meta = "false"
 <ol reversed>
 
 
+<li>
+<a id="wells_2019_eca+strength+abstract" style="visibility: hidden"></a>S. Wells (2019) "<em>The Computational Approach to Argument Strength</em>"<br />
+Abstract for contribution to the Symposium on Argument Strength which was hosted at the 3rd European Conference on Argumentation: Reason to Dissent (ECA19), Groningen, Nethlands<br /> 
+ <div style="text-align: right">Abstract: [ <a href="/assets/papers/wells_2019_eca+strength+abstract.pdf">pdf (eprint)</a> ]</div><br/></li>
+
+
 <li><a id="andras_2018_ieee" style="visibility: hidden"></a>Peter Andras, Lukas Esterle, Michael Guckert, The Anh Han, Peter R. Lewis, Kristina Milanovic, Terry Payne, Cedric Perret, Jeremy Pitt, Simon T. Powers, Neil Urquhart and Simon Wells (2018) "<em><a href="https://ieeexplore.ieee.org/document/8558724">Trusting Intelligent Machines: Deepening trust within socio-technical systems</a></em>"<br />
 in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=44">IEEE Technology and Society Magazine</a> Volume: 37 , Issue: 4 , Dec. 2018.<br /> 
  <!--<div style="text-align: right">doi (paper): [<a href="#"></a> ]</div>-->
  <div style="text-align: right">paper: [<a href="https://doi.org/10.1109/MTS.2018.2876107">doi:10.1109/MTS.2018.2876107</a> | <a href="/assets/papers/andras_2018_ieee.pdf">pdf (eprint)</a> ]</div>
  <br/></li> 
-
 
 
 <li>
