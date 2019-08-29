@@ -5,7 +5,7 @@ publishdir = "docs"
 title = "Dr Simon Wells"
 copyright = "Copyright &copy; 2001-2018 - Simon Wells"
 
-paginate = 3
+paginate = 50
 
 summaryLength = 30
 enableEmoji = true
