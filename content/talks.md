@@ -8,6 +8,16 @@ meta = "false"
 
 <ol reversed>
 
+<li><a id="freshers2019" style="visibility: hidden"></a>&ldquo;Introduction to Programming: AKA READY. || Things you probably shouldn't do in the browser console&rdquo;, presented to the incoming freshers of the School of Computing, Edinburgh Napier University, on Friday 13th September 2019.<br /> <div style="text-align: right">[ <a href="/assets/talks/2019.09.13_freshers.pdf">pdf (slides)</a> ]</div><br /></li>
+
+
+
+<li><a id="eca2019b" style="visibility: hidden"></a>&ldquo;A Paroxysm of Dissent: Partisan Political Advertising During the Brexit Campaign&rdquo;, presented at the Third European Conference on Argumentation (ECA2019), Groningen, Netherlands, on Thursday 27th June 2019.<br /><div style="text-align: right">[ <a href="/assets/talks/2019.06.27_eca+partisan.pdf">pdf (slides)</a> ]</div><br /></li>
+
+
+<li><a id="eca2019a" style="visibility: hidden"></a>&ldquo;The Computational Approach to Argument Strength&rdquo;, presented at the Third European Conference on Argumentation (ECA2019), Groningen, Netherlands, on Thursday 27th June 2019.<br /><div style="text-align: right">[ <a href="/assets/talks/2019.06.27_eca+strength.pdf">pdf (slides)</a> ]</div><br /></li>
+
+
 <li><a id="eca2017" style="visibility: hidden"></a>&ldquo;Introduction to Programming: AKA My Struggle || Things you probably shouldn't do in the browser console&rdquo;, presented to the incoming freshers of the School of Computing, Edinburgh Napier University, on Friday 14th September 2018.<br />
 
 <div style="text-align: right">[ <a href="/assets/talks/2018.09.14_freshers.pdf">pdf (slides)</a> ]</div><br /></li>
