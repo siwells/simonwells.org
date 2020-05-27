@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; 2001-2018 - Simon Wells</copyright>
-    <lastBuildDate>Thu, 27 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.simonwells.org/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Talk at the Third Trust In Intelligent Machines Workshop</title>
+      <link>http://www.simonwells.org/news/2020.05.27_third-trust-workshop/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/news/2020.05.27_third-trust-workshop/</guid>
+      <description>I presented a talk to the delegates of the third Trust in Intelligent Machines Workshop. The subject of my talk was on the various shaded of grey, or lack of clarity, in considering the issue of trust in the context of intelligent machines, communication, and dialogue when deception is an issue.</description>
+    </item>
     
     <item>
       <title>ECA Paper on Partisan Political Argument in the online Brexit Campaign</title>
@@ -28,6 +37,15 @@
       
       <guid>http://www.simonwells.org/news/2019.06.27_eca&#43;strength/</guid>
       <description>I contributed to the Symposium on Argument Strength at the recent Third European Conference on Argumentation (ECA). The symposium was organised by Frank Zenker and other contributions were from to Marcin Selinger, Kamila Debowska-Kozlowska, and David Godden.</description>
+    </item>
+    
+    <item>
+      <title>Paper Published in the Proceedings of ISSA 2018</title>
+      <link>http://www.simonwells.org/news/2019.04.05_issa&#43;proceedings/</link>
+      <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/news/2019.04.05_issa&#43;proceedings/</guid>
+      <description>Together with my colleague, Al Baker, I published a paper in the proceedings of the 9th Conference of the International Society for the Study of Argumentation hosted by the University of Amsterdam.</description>
     </item>
     
     <item>
