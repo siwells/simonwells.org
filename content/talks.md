@@ -8,6 +8,9 @@ meta = "false"
 
 <ol reversed>
 
+<li><a id="tim2020" style="visibility: hidden"></a>&ldquo;Shades of Grey || Some Thoughts on the subject of intelligent machines, trust, communiation, and deception&rdquo;, presented at the third Trust in Intelligent Machines Workshop (TIM 2020), Online, on Wednesday 27th May 2020<br /> <div style="text-align: right">[ <a href="/assets/talks/2020.05.27_tim#3.pdf">pdf (slides)</a> ]</div><br /></li>
+
+
 <li><a id="freshers2019" style="visibility: hidden"></a>&ldquo;Introduction to Programming: AKA READY. || Things you probably shouldn't do in the browser console&rdquo;, presented to the incoming freshers of the School of Computing, Edinburgh Napier University, on Friday 13th September 2019.<br /> <div style="text-align: right">[ <a href="/assets/talks/2019.09.13_freshers.pdf">pdf (slides)</a> ]</div><br /></li>
 
 
