@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr Simon Wells</title>
@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; 2001-2018 - Simon Wells</copyright>
-    <lastBuildDate>Mon, 09 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.simonwells.org/index.xml" rel="self" type="application/rss+xml" />
     
@@ -28,8 +28,7 @@ Abstract for paper presented at the 3rd European Conference on Argumentation: Re
       <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.simonwells.org/projects/</guid>
-      <description>SUStainable and PERsuasive Human Users moBility in future cities (SUPERHUB) – A large EU FP7 IP project. [STATUS: PROJECT COMPLETED 30th November 2014]
- The Dialogue Game Description Language (DGDL), a domain specific language and supporting toolkit for describing the rules of diverse dialectical games.</description>
+      <description>SUStainable and PERsuasive Human Users moBility in future cities (SUPERHUB) – A large EU FP7 IP project.  [STATUS: PROJECT COMPLETED 30th November 2014]  The Dialogue Game Description Language (DGDL), a domain specific language and supporting toolkit for describing the rules of diverse dialectical games.</description>
     </item>
     
     <item>
