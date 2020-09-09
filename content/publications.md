@@ -83,7 +83,7 @@ Abstract for paper presented at the 2nd European Conference on Argumentation: Ar
 
 
 <li>
-<a id="khartabil_2017_diagramming" style="visibility: hidden"></a>K. Pangbourne, A. Baker-Graham, & S. Wells (2017) "<em>The Role of Inference in Constructing, Communicating and Sustaining Behaviour Change Arguments</em>"<br />
+<a id="pangbourne_2017_eca" style="visibility: hidden"></a>K. Pangbourne, A. Baker-Graham, & S. Wells (2017) "<em>The Role of Inference in Constructing, Communicating and Sustaining Behaviour Change Arguments</em>"<br />
 Poster abstract presented at the 2nd European Conference on Argumentation: Argumentation and Inference (ECA17), Fribourg, Switzerland<br /> 
  <div style="text-align: right">Abstract: [ <a href="/assets/papers/pangbourne_2017_eca.pdf">pdf (eprint)</a> ]</div><br/></li>
 
