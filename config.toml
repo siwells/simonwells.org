@@ -28,3 +28,5 @@ pygmentsCodeFences = true
     tagline = "sesquipedalia verba"
     description = "my academic life"
 
+[markup.goldmark.renderer] 
+    unsafe= true
