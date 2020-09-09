@@ -49,9 +49,7 @@ Paper presented at the SICSA AI Theme workshop on Reasoning, Learning, & Explain
 
 
 <li>
-<a id="stibe_2018_dark.patterns" style="visibility: hidden"></a>
-
-A. Stibe, K. Pangbourne, S. Wells, B. Cugelman, and A. Kjaer Christensen (2018) "<em>Uncovering Dark Patterns in Persuasive Technology</em>"<br />
+<a id="stibe_2018_dark.patterns" style="visibility: hidden"></a>A. Stibe, K. Pangbourne, S. Wells, B. Cugelman, and A. Kjaer Christensen (2018) "<em>Uncovering Dark Patterns in Persuasive Technology</em>"<br />
 In: Ham J., Karapanos E., Morita P., Burns C. (eds) Adjunct Proceedings of Persuasive Technology. PERSUASIVE 2018<br /> 
  <div style="text-align: right">[ <a href="/assets/papers/stibe_2018_dark.patterns.pdf">pdf (eprint)</a> ]</div><br/></li>
 
