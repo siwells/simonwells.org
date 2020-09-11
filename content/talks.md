@@ -8,7 +8,7 @@ meta = "false"
 
 <ol reversed>
 
-<li><a id="freshers2020" style="visibility: hidden"></a>&ldquo;Introduction to Programming: AKA READY. || Things you probably shouldn't do in the browser console&rdquo;, presented to the incoming freshers of the School of Computing, Edinburgh Napier University, on Friday 13th September 2019.<br /> <div style="text-align: right">[ <a href="/assets/talks/2020.09.11_freshers.pdf">pdf (slides)</a> |  <a href="https://github.com/siwells/READY">examples (GitHub Repo)</a> ]</div><br /></li>
+<li><a id="freshers2020" style="visibility: hidden"></a>&ldquo;Introduction to Programming: AKA READY. || Things you probably shouldn't do in the browser console&rdquo;, presented to the incoming freshers of the School of Computing, Edinburgh Napier University, on Friday 11th September 2020.<br /> <div style="text-align: right">[ <a href="/assets/talks/2020.09.11_freshers.pdf">pdf (slides)</a> |  <a href="https://github.com/siwells/READY">examples (GitHub Repo)</a> ]</div><br /></li>
 
 <li><a id="cmna2020" style="visibility: hidden"></a>&ldquo;Datastores for Argumentation Data&rdquo;, presented at the Twentieth International Workshop on Computational Models of Natural Argument (CMNA20), Perugia, Italy, on Tueday 8th September, 2020.<br /><div style="text-align: right">[ <a href="/assets/talks/2020.09.08_cmna.pdf">pdf (slides)</a> ]</div><br /></li>
 
