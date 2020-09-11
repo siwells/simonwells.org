@@ -10,6 +10,13 @@ meta = "false"
 
 <ol reversed>
 
+<li><a id="wells_2020_comma" style="visibility: hidden"></a>S. Wells <em>"The Open Argumentation PLatform (OAPL)"</em><br/> in Proceedings of <a href="http://comma2014.arg.dundee.ac.uk">Computational Models of Argument (COMMA 2020)</a>, Frontiers in Artifical Intelligence, Volume 326: Computational Models of Argument, pages 465-476, Perugia, Italy.<br />
+<div style="text-align: right">[ <a href="http://doi.org/10.3233/FAIA200541">pdf (DOI)</a> | <a href="http://ebooks.iospress.nl/publication/55407">pdf (IOS Press)</a> | <a href="/assets/abstracts/wells_2020_comma.pdf">pdf (eprint)</a> ]</div><br/></li>
+
+
+<li><a id="wells_2020_datastores" style="visibility: hidden"></a>S. Wells (2020) "<em>Datastores for Argumentation Data</em>"<br />
+Proceedings of the 20th International Workshop on Computational Models of Natural Argument(<a href="http://www.cmna.info/CMNA20">CMNA20</a>), Pages 31-40, Perugia, Italy.<br /> 
+ <div style="text-align: right">[ <a href="http://ceur-ws.org/Vol-2669/paper4.pdf">CEUR Archive (pdf)</a> | <a href="/assets/papers/wells_2020_cmna.pdf">pdf (eprint)</a> ]</div><br/></li>
 
 <li>
 <a id="wells_2019_eca+partisan+abstract" style="visibility: hidden"></a>S. Wells (2019) "<em>A Paroxysm of Dissent: Partisan Political Advertising During the Brexit Campaign</em>"<br />
