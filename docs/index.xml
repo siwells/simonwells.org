@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; 2001-2018 - Simon Wells</copyright>
-    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.simonwells.org/index.xml" rel="self" type="application/rss+xml" />
     
@@ -66,6 +66,15 @@
       <guid>http://www.simonwells.org/bio/</guid>
       <description>Simon Wells is a lecturer in the School of Computing at Edinburgh Napier University.
 His research interests lie generally in Artificial Intelligence with a specific focus on reasoning, decision-making, and strategic interaction achieved via formal and applied argumentation-based techniques.</description>
+    </item>
+    
+    <item>
+      <title>Talk at the Twentieth Computational Models of Natural Argument Workshop</title>
+      <link>http://www.simonwells.org/news/2020.09.08_cmna20/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/news/2020.09.08_cmna20/</guid>
+      <description>I presented a talk to the delegates of the twentieth Computational Models of Natural Argument Workshop on the subject of &amp;ldquo;Datastores for Argumentation Data&amp;rdquo; in which he talked about SADFace &amp;amp; the ArgDB as a way to store and manipulate argumentative datasets.</description>
     </item>
     
     <item>
