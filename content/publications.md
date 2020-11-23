@@ -63,7 +63,7 @@ In: Ham J., Karapanos E., Morita P., Burns C. (eds) Adjunct Proceedings of Persu
 <li>
 <a id="pangbourne_2018_utsg" style="visibility: hidden"></a>K. Pangbourne, A. Baker, S. Wells, & S. Bennett (2018) "<em>Arguing Effectively for Modal Shift</em>"<br />
 Paper presented to the Universities Transport Studies Group 50th Annual Conference (<a href="http://utsg.net/annual-conference">UTSG 2018</a>), London, UK.<br /> 
- <div style="text-align: right">[ <a href="#">pdf (eprint)</a> ]</div><br/></li>
+ <div style="text-align: right">[ <a href="/assets/papers/pangbourne_2018_utsg.pdf">pdf (eprint)</a> ]</div><br/></li>
 
 
 <li><a id="baker_2017_ptai" style="visibility: hidden"></a>A. Baker & S. Wells (2017) "<em>When Should We Let AIs Persuade?</em>"<br />
