@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; 2001-2018 - Simon Wells</copyright>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.simonwells.org/index.xml" rel="self" type="application/rss+xml" />
     
@@ -36,7 +36,9 @@
       <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.simonwells.org/talks/</guid>
-      <description>&amp;ldquo;Introduction to Programming: AKA READY. || Things you probably shouldn&#39;t do in the browser console&amp;rdquo;, presented to the incoming freshers of the School of Computing, Edinburgh Napier University, on Friday 11th September 2020.</description>
+      <description>&amp;ldquo;AI Research @ Edinburgh Napier University &amp;rdquo;, Presented to the 2021 SICSA-AI All Hands meeting held virtually on 17th June 2021.
+[ pdf (slides) ]
+ &amp;ldquo;Introduction to Programming: AKA READY.</description>
     </item>
     
     <item>
@@ -66,6 +68,15 @@
       <guid>http://www.simonwells.org/bio/</guid>
       <description>Simon Wells is a lecturer in the School of Computing at Edinburgh Napier University.
 His research interests lie generally in Artificial Intelligence with a specific focus on reasoning, decision-making, and strategic interaction achieved via formal and applied argumentation-based techniques.</description>
+    </item>
+    
+    <item>
+      <title>Talk on AI Research at Edinburgh Napier University for the SICSA-AI all hands meeting</title>
+      <link>http://www.simonwells.org/news/2021.06.17_sicsaai/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/news/2021.06.17_sicsaai/</guid>
+      <description>A brief overview of AI resarch activities at Edinburgh Napier University. This is not an exhaustive survey but is broadly indicative of the breadth and depth of AI related activities carried out at ENU, primarily within the School of Computing.</description>
     </item>
     
     <item>

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; 2001-2018 - Simon Wells</copyright>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.simonwells.org/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Talk on AI Research at Edinburgh Napier University for the SICSA-AI all hands meeting</title>
+      <link>http://www.simonwells.org/news/2021.06.17_sicsaai/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/news/2021.06.17_sicsaai/</guid>
+      <description>A brief overview of AI resarch activities at Edinburgh Napier University. This is not an exhaustive survey but is broadly indicative of the breadth and depth of AI related activities carried out at ENU, primarily within the School of Computing.</description>
+    </item>
     
     <item>
       <title>Talk at the Twentieth Computational Models of Natural Argument Workshop</title>
