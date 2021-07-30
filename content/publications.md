@@ -10,6 +10,13 @@ meta = "false"
 
 <ol reversed>
 
+
+<!--
+<li><a id="khartabil_2021_cgf" style="visibility: hidden"></a>D. Khartabil, C. Collins, S. Wells, B. Back, J. Kennedy (2021) "<em>Design and Evaluation of Visualization Techniques to Facilitate Argument Exploration</em>"<br/> in Computer Graphics Forum, Wiley.<br />
+<div style="text-align: right">[  ]</div><br/></li>
+-->
+
+
 <li><a id="wells_2020_comma" style="visibility: hidden"></a>S. Wells (2020) "<em>The Open Argumentation PLatform (OAPL)</em>"<br/> in Proceedings of <a href="http://comma2014.arg.dundee.ac.uk">Computational Models of Argument (COMMA 2020)</a>, Frontiers in Artifical Intelligence, Volume 326: Computational Models of Argument, pages 465-476, Perugia, Italy.<br />
 <div style="text-align: right">[ <a href="http://doi.org/10.3233/FAIA200541">pdf (DOI)</a> | <a href="http://ebooks.iospress.nl/publication/55407">pdf (IOS Press)</a> | <a href="/assets/abstracts/wells_2020_comma.pdf">pdf (eprint)</a> ]</div><br/></li>
 
