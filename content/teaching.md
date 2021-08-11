@@ -6,21 +6,33 @@ weight = "50"
 meta = "false"
 +++
 
+### Academic Service
+
+I supervise honours, masters, and phd projects. I also develop and lead both modules and programmes globally as well as for specific external academic partners in the UK, Eire, & Myanmar. As a result I also serve on module and programme boards and have been a standing member of our Athena Swan committee since 2015. I am an academic representative to the Edinburgh Napier University Academic board.
+
+
 ### Current Taught Courses & Modules
 
 I am Module Leader for the following modules:
 
-* SET08101: Web Tech
-* SET08114: Mobile Application Development
-* SET09103: Advanced Web Tech
-* SET09117: Algorithms & Data Structures
+* SET08101: Web Tech - This focusses upon modern client side web development. This has multiple instances which cover external partnerships (SET08702), graduate apprentic programmes (SET08401), and global online programmes (SET08801). All run in second trimester of each academic year apart from SET08702 which occasionally runs during the summer trimester.
+* SET09103: Advanced Web Tech - SET08101 (or equivalent is a pre-requisite for this module which focusses on the server side of web development.
+* SET09701: Java OO Programming
 
-I also supervise honours, masters, and phd projects. I develop and lead modules for our external academic partners in the UK, Eire, & Myanmar. I also serve on the module boards at levels associated with my own modules and have been a standing member of our Athena Swan committee since 2015.
+
 
 ### Past Taught Courses & Modules
 
 I have previously served on the termination of studies committee and exam boards for the School of Computing at the University of Dundee. Whilst there, at various times I coordinated and taught the following undergraduate and postgraduate modules:
 
+
+##### @ Edinburgh Napier University
+
+* SET07109: Programming Fundamentals
+* SET08114: Mobile Application Development
+* SET09117: Algorithms & Data Structures
+
+##### @ University of Dundee
 
 * AC12003: The Argumentation &amp; Computers Course
 * AC21003: Applied Computing AC2A
@@ -36,9 +48,11 @@ I have previously served on the termination of studies committee and exam boards
 ### Project Supervision
 
 I have also supervised both undergraduate and postgraduate projects on modules AC40001, AC52004, AC52030, and AC52031. The student project archive has more details of particular projects that have been completed.
-        
-<ol reversed>
 
+
+##### @ University of Dundee
+
+<ol reversed>
 <li> Adam Mackie, Senior Honours Project, 09.2010 -- 01.2011, Building GARGle: A search engine for large-scale online argument repositories</li>
 <li> James Boyden, Senior Honours Project, 09.2010 -- 01.2011, Exploring argument structures using the Microsoft Surface</li>
 <li> Kathleen Donachie, Senior Honours Project, 09.2010 -- 01.2011, GrokTool: An argument construction tool to support student understanding of complex domains</li>
@@ -62,7 +76,5 @@ I have also supervised both undergraduate and postgraduate projects on modules A
 <li> Waqar Zafar, MSc Intelligent Computational Systems Dissertation, 09.2007 -- 05.2008, Agent Development for Breast Cancer Research</li>
 <li> Syed Hussain, MSc Intelligent Computational Systems Dissertation, 09.2007 -- 05.2008, Agent-based automated vehicle management</li>
 <li> Debora Kagohara, MSc Computing & Business Dissertation, 04.2007 -- 09.2007, Virtual Ant Farm</li>
-
-        
-        </ol>
+</ol>
 
