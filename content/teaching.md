@@ -6,9 +6,9 @@ weight = "50"
 meta = "false"
 +++
 
-### Academic Service
+### Academic Service & Leadership
 
-I supervise honours, masters, and phd projects. I also develop and lead both modules and programmes globally as well as for specific external academic partners in the UK, Eire, & Myanmar. As a result I also serve on module and programme boards and have been a standing member of our Athena Swan committee since 2015. I am an academic representative to the Edinburgh Napier University Academic board.
+I supervise honours, masters, and phd projects. I also develop and lead both modules and programmes globally as well as for specific external academic partners in the UK, Eire, & Myanmar. As a result I also serve on module and programme boards and have been a standing member of our Athena Swan committee since 2015. I am an academic representative to the Edinburgh Napier University Academic board. I developed and lead the successful [Global Online BSc Computing](https://www.napier.ac.uk/courses/bsc-bsc-computing-global-online-topup-ft-undergraduate-online-learning) degree programme.
 
 
 ### Current Taught Courses & Modules
