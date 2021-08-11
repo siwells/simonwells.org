@@ -29,9 +29,9 @@ I am currently the Module Leader for the following modules which I also deliver 
     
 * SET09701: Java OO Programming
 
-    [Module Descriptor](https://www.modules.napier.ac.uk/module.aspx?ID=SET09103)
+    [Module Descriptor](https://www.modules.napier.ac.uk/module.aspx?ID=SET09701)
     
-    [Module Website](https://github.com/siwells/advanced-webtech)
+    [Module Website](https://github.com/siwells/java)
 
 
 
