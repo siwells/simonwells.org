@@ -13,7 +13,7 @@ I supervise honours, masters, and phd projects. I also develop and lead both mod
 
 ### Current Taught Courses & Modules
 
-I am Module Leader for the following modules:
+I am currently the Module Leader for the following modules which I also deliver and examine:
 
 * SET08101: Web Tech - This focusses upon modern client side web development. This has multiple instances which cover external partnerships (SET08702), graduate apprentic programmes (SET08401), and global online programmes (SET08801). All run in second trimester of each academic year apart from SET08702 which occasionally runs during the summer trimester. 
 
