@@ -67,6 +67,7 @@ I have also supervised both undergraduate and postgraduate projects on modules A
 ##### @ Edinburgh Napier University
 
 <ol reversed>
+<li>James Sharkey, Honours Project, 09.2015 -- 06.2016</li>
 <li>Paul Theurer, Honours Project, 01.2015 -- 12.2015</li>
 <li>David Stewart, Honours Project, 01.2015 -- 12.2015</li>
 </ol>
