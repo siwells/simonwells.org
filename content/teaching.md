@@ -111,6 +111,7 @@ I have previously served on the termination of studies committee and exam boards
 <li>Finlay Wright, Honours Project, 09.2017 -- 06.2018</li>
 <li>Hristo Meshinski, Honours Project, 01.2017 -- 12.2017</li>
 <li>Amantle Craviolati, Honours Project, 01.2017 -- 12.2017</li>
+<li>Gowthami Gurapadi, Masters Project, 01.2017 -- 06.2017</li>
 <li>Sean Jackson, Honours Project, 09.2016 -- 06.2016</li>
 <li>Liam Aitken, Honours Project, 09.2016 -- 06.2016</li>
 <li>John Douglas, Honours Project, 09.2016 -- 06.2016</li>
