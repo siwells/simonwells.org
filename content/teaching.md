@@ -67,6 +67,7 @@ I have also supervised both undergraduate and postgraduate projects on modules A
 ##### @ Edinburgh Napier University
 
 <ol reversed>
+<li>Nathan Mair, Honours Project, 09.2017 -- 06.2018</li>
 <li>Illya Kalinov, Honours Project, 09.2017 -- 06.2018</li>
 <li>Graeme Campbell, Honours Project, 09.2017 -- 06.2018</li>
 <li>Gillan Stewart, Honours Project, 09.2017 -- 06.2018</li>
