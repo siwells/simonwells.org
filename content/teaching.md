@@ -37,6 +37,8 @@ I am currently the Module Leader for the following modules which I also deliver 
 
 ### Past Taught Courses & Modules
 
+Over time I've taught or lead a variety of modules and subjects at various institutions.
+
 ##### @ Edinburgh Napier University
 
 These are some modules that I previously taught on at Edinburgh Napier University.
