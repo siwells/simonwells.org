@@ -61,8 +61,6 @@ I have previously served on the termination of studies committee and exam boards
         
 ### Project Supervision
 
-I have also supervised both undergraduate and postgraduate projects on modules AC40001, AC52004, AC52030, and AC52031. The student project archive has more details of particular projects that have been completed.
-
 
 ##### @ Edinburgh Napier University
 
@@ -123,6 +121,9 @@ I have also supervised both undergraduate and postgraduate projects on modules A
 </ol>
 
 ##### @ University of Dundee
+
+I have also supervised both undergraduate and postgraduate projects on modules AC40001, AC52004, AC52030, and AC52031 at the University of Dundee.
+
 
 <ol reversed>
 <li> Adam Mackie, Senior Honours Project, 09.2010 -- 01.2011, Building GARGle: A search engine for large-scale online argument repositories</li>
