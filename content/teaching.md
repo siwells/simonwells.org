@@ -39,6 +39,8 @@ I am currently the Module Leader for the following modules which I also deliver 
 
 ##### @ Edinburgh Napier University
 
+These are some modules that I previously taught on at Edinburgh Napier University.
+
 * SET07109: Programming Fundamentals
 * SET08114: Mobile Application Development
 * SET09117: Algorithms & Data Structures
