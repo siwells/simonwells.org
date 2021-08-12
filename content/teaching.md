@@ -67,6 +67,7 @@ I have also supervised both undergraduate and postgraduate projects on modules A
 ##### @ Edinburgh Napier University
 
 <ol reversed>
+<li>Ciaran Brady, Honours Project, 09.2020 -- 06.2021</li>
 <li>Celeste Prussiani, Honours Project, 09.2020 -- 06.2021</li>
 <li>Arran Smedley, Honours Project, 09.2020 -- 06.2021</li>
 <li>Vaughn O'Meara, Honours Project, 01.2020 -- 06.2021</li>
