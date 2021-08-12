@@ -67,6 +67,7 @@ I have also supervised both undergraduate and postgraduate projects on modules A
 ##### @ Edinburgh Napier University
 
 <ol reversed>
+<li>Fiona Gilmour, Honours Project, 01.2021 -- 12.2021</li>
 <li>Chris Wales, Honours Project, 01.2021 -- 12.2021</li>
 <li>Stefan Hadzhiev, Honours Project, 09.2020 -- 06.2021</li>
 <li>Martin Putz, Honours Project, 09.2020 -- 06.2021</li>
