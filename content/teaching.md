@@ -37,9 +37,6 @@ I am currently the Module Leader for the following modules which I also deliver 
 
 ### Past Taught Courses & Modules
 
-I have previously served on the termination of studies committee and exam boards for the School of Computing at the University of Dundee. Whilst there, at various times I coordinated and taught the following undergraduate and postgraduate modules:
-
-
 ##### @ Edinburgh Napier University
 
 * SET07109: Programming Fundamentals
@@ -47,6 +44,8 @@ I have previously served on the termination of studies committee and exam boards
 * SET09117: Algorithms & Data Structures
 
 ##### @ University of Dundee
+
+I have previously served on the termination of studies committee and exam boards for the School of Computing at the University of Dundee. Whilst there, at various times I coordinated and taught the following undergraduate and postgraduate modules:
 
 * AC12003: The Argumentation &amp; Computers Course
 * AC21003: Applied Computing AC2A
