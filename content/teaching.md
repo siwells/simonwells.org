@@ -114,6 +114,7 @@ I have previously served on the termination of studies committee and exam boards
 <li>Sean Jackson, Honours Project, 09.2016 -- 06.2016</li>
 <li>Liam Aitken, Honours Project, 09.2016 -- 06.2016</li>
 <li>John Douglas, Honours Project, 09.2016 -- 06.2016</li>
+<li>Xi Wang, Masters Project, 06.2016 -- 09.2016</li>
 <li>Emils Pinkis, Honours Project, 01.2016 -- 12.2016</li>
 <li>Ashok Kamepalli, Masters Project, 09.2015 -- 12.2015</li>
 <li>James Sharkey, Honours Project, 09.2015 -- 06.2016</li>
