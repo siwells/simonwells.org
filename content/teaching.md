@@ -64,6 +64,12 @@ I have previously served on the termination of studies committee and exam boards
 I have also supervised both undergraduate and postgraduate projects on modules AC40001, AC52004, AC52030, and AC52031. The student project archive has more details of particular projects that have been completed.
 
 
+##### @ Edinburgh Napier University
+
+<ol reversed>
+<li>David Stewart, Honours Project, 01.2015 -- 12.2015</li>
+</ol>
+
 ##### @ University of Dundee
 
 <ol reversed>
