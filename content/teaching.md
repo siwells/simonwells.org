@@ -72,7 +72,9 @@ I have also supervised both undergraduate and postgraduate projects on modules A
 <li>Chris Wales, Honours Project, 01.2021 -- 12.2021</li>
 <li>Ashfaq Ahmed, Honours Project, 01.2021 -- 12.2021</li>
 <li>Cara Bullock, Honours Project (Graduate Apprentice), 09.2020 -- 09.2021</li>
-<li>Aung Khant Paing, Honours Project, 09.2020 -- 06.2021</li>
+<li>Bhone Thet Aung, Honours Project (Myanmar), 09.2020 -- 12.2021</li>
+<li>Aung Min Khant, Honours Project (Myanmar), 09.2020 -- 12.2021</li>
+<li>Aung Khant Paing, Honours Project (Myanmar), 09.2020 -- 12.2021</li>
 <li>Stefan Hadzhiev, Honours Project, 09.2020 -- 06.2021</li>
 <li>Martin Putz, Honours Project, 09.2020 -- 06.2021</li>
 <li>Lee Robinson, Honours Project, 09.2020 -- 06.2021</li>
