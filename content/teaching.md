@@ -91,6 +91,7 @@ I have previously served on the termination of studies committee and exam boards
 <li>Luke Reeder, Honours Project, 09.2019 -- 06.2020</li>
 <li>Connor Ness, Honours Project, 09.2019 -- 06.2020</li>
 <li>Ali Babiker, Honours Project, 09.2019 -- 06.2020</li>
+<li>Bhuvaneswari Thota, Masters Project, 01.2019 -- 06.2019</li>
 <li>Rossa Heraty Quirke, Honours Project, 01.2019 -- 12.2019</li>
 <li>Michael Paxton, Honours Project, 01.2019 -- 12.2019</li>
 <li>David Frame, Honours Project, 01.2019 -- 12.2019</li>
@@ -101,6 +102,8 @@ I have previously served on the termination of studies committee and exam boards
 <li>Dan Nash, Honours Project, 09.2018 -- 06.2019</li>
 <li>Calvin Gill, Honours Project, 09.2018 -- 06.2019</li>
 <li>Ben Gray, Honours Project, 09.2018 -- 06.2019</li>
+<li>Wahid Hamid, Masters Project, 06.2018 -- 09.2018</li>
+<li>Konstantinos Kalkounos, Masters Project, 06.2018 -- 09.2018</li>
 <li>Ryan Stainsby, Honours Project, 01.2018 -- 12.2018</li>
 <li>Marcin Szczot, Honours Project, 01.2018 -- 12.2018</li>
 <li>William Hutcheson, Honours Project, 09.2017 -- 06.2018</li>
