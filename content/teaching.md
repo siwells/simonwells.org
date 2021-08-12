@@ -64,6 +64,8 @@ I have previously served on the termination of studies committee and exam boards
 
 ##### @ Edinburgh Napier University
 
+The following are undergraduate and postgraduate projects across the SOC10101, SOC10102, SOC10404, SOC10603, SOC11101, and SOC11801 modules.
+
 <ol reversed>
 <li>Davide Pollicino, Honours Project, 09.2021 -- 06.2022</li>
 <li>Mahendar Katuku, Masters Project, 06.2021 -- 09.2021</li>
