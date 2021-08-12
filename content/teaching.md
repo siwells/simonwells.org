@@ -67,6 +67,8 @@ I have also supervised both undergraduate and postgraduate projects on modules A
 ##### @ Edinburgh Napier University
 
 <ol reversed>
+<li>Lee Robinson, Honours Project, 09.2020 -- 06.2021</li>
+<li>Kaci Yan, Honours Project, 09.2020 -- 12.2021</li>
 <li>Jonathan Binns, Honours Project, 09.2020 -- 06.2021</li>
 <li>Jacob Barrow, Honours Project, 09.2020 -- 06.2021</li>
 <li>Dominic Manderson, Honours Project, 09.2020 -- 06.2021</li>
