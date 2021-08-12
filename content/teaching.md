@@ -67,6 +67,7 @@ I have also supervised both undergraduate and postgraduate projects on modules A
 ##### @ Edinburgh Napier University
 
 <ol reversed>
+<li>Mark Barton, Honours Project, 09.2018 -- 06.2019</li>
 <li>Jostein Dyrseth, Honours Project, 09.2018 -- 06.2019</li>
 <li>Dan Nash, Honours Project, 09.2018 -- 06.2019</li>
 <li>Calvin Gill, Honours Project, 09.2018 -- 06.2019</li>
