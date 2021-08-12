@@ -67,6 +67,7 @@ I have also supervised both undergraduate and postgraduate projects on modules A
 ##### @ Edinburgh Napier University
 
 <ol reversed>
+<li>Connor Ness, Honours Project, 09.2019 -- 06.2020</li>
 <li>Ali Babiker, Honours Project, 09.2019 -- 06.2020</li>
 <li>Rossa Heraty Quirke, Honours Project, 01.2019 -- 12.2019</li>
 <li>Michael Paxton, Honours Project, 01.2019 -- 12.2019</li>
