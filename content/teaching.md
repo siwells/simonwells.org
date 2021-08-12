@@ -115,6 +115,7 @@ I have previously served on the termination of studies committee and exam boards
 <li>Liam Aitken, Honours Project, 09.2016 -- 06.2016</li>
 <li>John Douglas, Honours Project, 09.2016 -- 06.2016</li>
 <li>Emils Pinkis, Honours Project, 01.2016 -- 12.2016</li>
+<li>Ashok Kamepalli, Masters Project, 09.2015 -- 12.2015</li>
 <li>James Sharkey, Honours Project, 09.2015 -- 06.2016</li>
 <li>Paul Theurer, Honours Project, 01.2015 -- 12.2015</li>
 <li>David Stewart, Honours Project, 01.2015 -- 12.2015</li>
