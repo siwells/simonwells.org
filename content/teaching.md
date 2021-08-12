@@ -67,6 +67,7 @@ I have also supervised both undergraduate and postgraduate projects on modules A
 ##### @ Edinburgh Napier University
 
 <ol reversed>
+<li>John Douglas, Honours Project, 09.2016 -- 06.2016</li>
 <li>Emils Pinkis, Honours Project, 01.2016 -- 12.2016</li>
 <li>James Sharkey, Honours Project, 09.2015 -- 06.2016</li>
 <li>Paul Theurer, Honours Project, 01.2015 -- 12.2015</li>
