@@ -67,6 +67,7 @@ I have also supervised both undergraduate and postgraduate projects on modules A
 ##### @ Edinburgh Napier University
 
 <ol reversed>
+<li>Ben Gray, Honours Project, 09.2018 -- 06.2019</li>
 <li>Ryan Stainsby, Honours Project, 01.2018 -- 12.2018</li>
 <li>Marcin Szczot, Honours Project, 01.2018 -- 12.2018</li>
 <li>William Hutcheson, Honours Project, 09.2017 -- 06.2018</li>
