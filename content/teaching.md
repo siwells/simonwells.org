@@ -67,6 +67,7 @@ I have also supervised both undergraduate and postgraduate projects on modules A
 ##### @ Edinburgh Napier University
 
 <ol reversed>
+<li>Arran Smedley, Honours Project, 09.2020 -- 06.2021</li>
 <li>Vaughn O'Meara, Honours Project, 01.2020 -- 06.2021</li>
 <li>Zsolt Varga, Honours Project, 09.2019 -- 06.2020</li>
 <li>Rebecca Mcgowan, Honours Project, 09.2019 -- 06.2020</li>
