@@ -67,6 +67,7 @@ I have also supervised both undergraduate and postgraduate projects on modules A
 ##### @ Edinburgh Napier University
 
 <ol reversed>
+<li>Michael Paxton, Honours Project, 01.2019 -- 12.2019</li>
 <li>David Frame, Honours Project, 01.2019 -- 12.2019</li>
 <li>Sean Faughey, Honours Project, 09.2018 -- 06.2019</li>
 <li>Michael Gauld, Honours Project, 09.2018 -- 06.2019</li>
