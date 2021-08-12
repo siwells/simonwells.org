@@ -66,6 +66,8 @@ I have previously served on the termination of studies committee and exam boards
 
 <ol reversed>
 <li>Davide Pollicino, Honours Project, 09.2021 -- 06.2022</li>
+<li>Mahendar Katuku, Masters Project, 06.2021 -- 09.2021</li>
+<li>Connor Ness, Masters Project, 06.2021 -- 09.2021</li>
 <li>Fiona Gilmour, Honours Project, 01.2021 -- 12.2021</li>
 <li>Chris Wales, Honours Project, 01.2021 -- 12.2021</li>
 <li>Ashfaq Ahmed, Honours Project, 01.2021 -- 12.2021</li>
@@ -85,6 +87,7 @@ I have previously served on the termination of studies committee and exam boards
 <li>Celeste Prussiani, Honours Project, 09.2020 -- 06.2021</li>
 <li>Arran Smedley, Honours Project, 09.2020 -- 06.2021</li>
 <li>Vaughn O'Meara, Honours Project, 01.2020 -- 06.2021</li>
+<li>David Linacre, Masters Project, 01.2020 -- 12.2020</li>
 <li>Zsolt Varga, Honours Project, 09.2019 -- 06.2020</li>
 <li>Rebecca Mcgowan, Honours Project, 09.2019 -- 06.2020</li>
 <li>Paul Wilson, Honours Project, 09.2019 -- 06.2020</li>
