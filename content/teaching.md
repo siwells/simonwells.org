@@ -67,6 +67,7 @@ I have also supervised both undergraduate and postgraduate projects on modules A
 ##### @ Edinburgh Napier University
 
 <ol reversed>
+<li>Martin Putz, Honours Project, 09.2020 -- 06.2021</li>
 <li>Lee Robinson, Honours Project, 09.2020 -- 06.2021</li>
 <li>Kaci Yan, Honours Project, 09.2020 -- 12.2021</li>
 <li>Jonathan Binns, Honours Project, 09.2020 -- 06.2021</li>
