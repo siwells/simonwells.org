@@ -67,6 +67,7 @@ I have also supervised both undergraduate and postgraduate projects on modules A
 ##### @ Edinburgh Napier University
 
 <ol reversed>
+<li>Rebecca Mcgowan, Honours Project, 09.2019 -- 06.2020</li>
 <li>Paul Wilson, Honours Project, 09.2019 -- 06.2020</li>
 <li>Luke Reeder, Honours Project, 09.2019 -- 06.2020</li>
 <li>Connor Ness, Honours Project, 09.2019 -- 06.2020</li>
