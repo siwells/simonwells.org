@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; 2001-2018 - Simon Wells</copyright>
-    <lastBuildDate>Thu, 17 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.simonwells.org/index.xml" rel="self" type="application/rss+xml" />
     
@@ -68,6 +68,15 @@
       <guid>http://www.simonwells.org/bio/</guid>
       <description>Simon Wells is a lecturer in the School of Computing at Edinburgh Napier University.
 His research interests lie generally in Artificial Intelligence with a specific focus on reasoning, decision-making, and strategic interaction achieved via formal and applied argumentation-based techniques.</description>
+    </item>
+    
+    <item>
+      <title>New Paper in Computer Graphics Forum</title>
+      <link>http://www.simonwells.org/news/2021.08.12_cgf/</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/news/2021.08.12_cgf/</guid>
+      <description>My latest paper, titled &amp;ldquo;Design and Evaluation of Visualization Techniques to Facilitate Argument Exploration&amp;rdquo;, with my recently graduated Ph.D student, Dr Dana Khartabil, and colleagues from Edinburgh Napier University, Edinburgh University, and Ontario Tech University, has just been published in the Computer Graphics Forum.</description>
     </item>
     
     <item>
