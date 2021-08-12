@@ -67,6 +67,7 @@ I have also supervised both undergraduate and postgraduate projects on modules A
 ##### @ Edinburgh Napier University
 
 <ol reversed>
+<li>Jacob Barrow, Honours Project, 09.2020 -- 06.2021</li>
 <li>Dominic Manderson, Honours Project, 09.2020 -- 06.2021</li>
 <li>David Mccluskey, Honours Project, 09.2020 -- 06.2021</li>
 <li>Ciaran Brady, Honours Project, 09.2020 -- 06.2021</li>
