@@ -67,6 +67,7 @@ I have also supervised both undergraduate and postgraduate projects on modules A
 ##### @ Edinburgh Napier University
 
 <ol reversed>
+<li>Finlay Wright, Honours Project, 09.2017 -- 06.2018</li>
 <li>Hristo Meshinski, Honours Project, 01.2017 -- 12.2017</li>
 <li>Amantle Craviolati, Honours Project, 01.2017 -- 12.2017</li>
 <li>Sean Jackson, Honours Project, 09.2016 -- 06.2016</li>
