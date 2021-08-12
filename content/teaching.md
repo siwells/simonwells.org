@@ -67,6 +67,7 @@ I have also supervised both undergraduate and postgraduate projects on modules A
 ##### @ Edinburgh Napier University
 
 <ol reversed>
+<li>Sean Jackson, Honours Project, 09.2016 -- 06.2016</li>
 <li>Liam Aitken, Honours Project, 09.2016 -- 06.2016</li>
 <li>John Douglas, Honours Project, 09.2016 -- 06.2016</li>
 <li>Emils Pinkis, Honours Project, 01.2016 -- 12.2016</li>
