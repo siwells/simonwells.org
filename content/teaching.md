@@ -166,3 +166,15 @@ I have also supervised both undergraduate and postgraduate projects on modules A
 <li> Debora Kagohara, MSc Computing & Business Dissertation, 04.2007 -- 09.2007, Virtual Ant Farm</li>
 </ol>
 
+
+### Guidance on References
+
+If I've previously taught or supervised you then I'm happy to provide you with a reference. Usually this involves you providing my contact details to your employer who will ask me to then provide a reference according to their requirements.
+
+As I have an increasing number of requests each year, please help me to help you. The easiest way is as follows:
+
+* Send me an email to let me know that you need a reference.
+* In your email, tell me about the job that you've applied for, and,
+* remind me of the contact that we've had during your time at Napier, e.g. modules, supervisions, projects, placements, demonstration, tutoring, etc. with dates and other details if possible (not because I'll necesarily have forgotten you but because if you don't remind me then I'll have to look it all up which is fine for one reference but when I do dozens each year this can be quite time consuming).
+
+
