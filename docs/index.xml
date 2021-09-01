@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; 2001-2018 - Simon Wells</copyright>
-    <lastBuildDate>Thu, 12 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.simonwells.org/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,8 +18,8 @@
       <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.simonwells.org/publications/</guid>
-      <description>D. Khartabil, C. Collins, S. Wells, B. Back, J. Kennedy (2021) &#34;Design and Evaluation of Visualization Techniques to Facilitate Argument Exploration&#34; in Computer Graphics Forum, Wiley.
-[ pdf (DOI) | pdf (Wiley) | --pdf (eprint)-- ] S.</description>
+      <description>M. Snaith &amp; S. Wells (2021) &#34;Towards a Declarative Approach to Constructing Dialogue Games&#34; in the 21st International Workshop on Computational Models of Natural Argument (CMNA&#39;21)
+[ pdf (CEUR) | pdf (eprint) ] D.</description>
     </item>
     
     <item>
@@ -68,6 +68,16 @@
       <guid>http://www.simonwells.org/bio/</guid>
       <description>Simon Wells is a lecturer in the School of Computing at Edinburgh Napier University.
 His research interests lie generally in Artificial Intelligence with a specific focus on reasoning, decision-making, and strategic interaction achieved via formal and applied argumentation-based techniques.</description>
+    </item>
+    
+    <item>
+      <title>New Paper at CMNA&#39;21</title>
+      <link>http://www.simonwells.org/news/2021.09.01_cmna/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/news/2021.09.01_cmna/</guid>
+      <description>My latest paper, titled &amp;ldquo;Towards a Declarative Approach to Constructing Dialogue Games&amp;rdquo;, will be presented at the upcoming 21st International Workshop in Computational Models of Natural Argument (CMNA&#39;21).
+The paper is joint work with Mark Snaith from RGU in which we sketch out a new programme of research into how dialogue games, expressed using a new sub-unit of the DGDL called &amp;ldquo;fragments&amp;rdquo;, can be re-used in new contexts.</description>
     </item>
     
     <item>
