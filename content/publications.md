@@ -10,6 +10,9 @@ meta = "false"
 
 <ol reversed>
 
+<li><a id="snaith_2021_cmna" style="visibility: hidden"></a>M. Snaith & S. Wells (2021) "<em>Towards a Declarative Approach to Constructing Dialogue Games</em>"<br/> in the 21st International Workshop on <a href="https://cmna-workshop.github.io/cmna21/">Computational Models of Natural Argument (CMNA'21)</a><br />
+<div style="text-align: right">[ <a href="http://ceur-ws.org/Vol-2937/paper2.pdf">pdf (CEUR)</a> | <a href="/assets/papers/snaith_2021_cmna.pdf">pdf (eprint)</a> ]</div><br/></li>
+
 <li><a id="khartabil_2021_cgf" style="visibility: hidden"></a>D. Khartabil, C. Collins, S. Wells, B. Back, J. Kennedy (2021) "<em>Design and Evaluation of Visualization Techniques to Facilitate Argument Exploration</em>"<br/> in Computer Graphics Forum, Wiley.<br />
 <div style="text-align: right">[ <a href="https://doi.org/10.1111/cgf.14389">pdf (DOI)</a> | <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14389">pdf (Wiley)</a> | <!--<a href="/assets/abstracts/#">-->pdf (eprint)<!--</a>--> ]</div><br/></li>
 
