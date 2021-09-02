@@ -8,6 +8,8 @@ meta = "false"
 
 <ol reversed>
 
+<li><a id="cmna_2021" style="visibility: hidden"></a>&ldquo;Towards a Declarative Approach to Constructing Dialogue Games &rdquo;, Presented to the Twenty-First International Workshop on Computational Models of Natural Argument held virtually on 2nd September 2021.<br /> <div style="text-align: right">[ <a href="/assets/talks/2021.09.02_cmna.pdf">pdf (slides)</a> ]</div><br /></li>
+
 <li><a id="sicsaai2021" style="visibility: hidden"></a>&ldquo;AI Research @ Edinburgh Napier University &rdquo;, Presented to the 2021 SICSA-AI All Hands meeting held virtually on 17th June 2021.<br /> <div style="text-align: right">[ <a href="/assets/talks/2021.06.17_sicsa-ai.pdf">pdf (slides)</a> ]</div><br /></li>
 
 <li><a id="freshers2020" style="visibility: hidden"></a>&ldquo;Introduction to Programming: AKA READY. || Things you probably shouldn't do in the browser console&rdquo;, presented to the incoming freshers of the School of Computing, Edinburgh Napier University, on Friday 11th September 2020.<br /> <div style="text-align: right">[ <a href="/assets/talks/2020.09.11_freshers.pdf">pdf (slides)</a> |  <a href="https://github.com/siwells/READY">examples (GitHub Repo)</a> ]</div><br /></li>
