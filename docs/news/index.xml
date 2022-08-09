@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; 2001-2018 - Simon Wells</copyright>
-    <lastBuildDate>Wed, 16 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Aug 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.simonwells.org/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gairloch Public Outreach Event</title>
+      <link>http://www.simonwells.org/news/2022.08.04_gairloch/</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/news/2022.08.04_gairloch/</guid>
+      <description>On the 4th of August we headed to the Gairloch Museum to do a public outreach event to mark the launch of our website for the WOSHH/SCOSHH projects. The West of Scotland Herring Hunt (WOSHH) is a William Grant Foundation funded project that focusses upon Herring spawning behaviour on the West coast of Scotland.</description>
+    </item>
     
     <item>
       <title>New Paper in Informal Logic</title>
