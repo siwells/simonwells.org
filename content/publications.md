@@ -10,7 +10,7 @@ meta = "false"
 
 <ol reversed>
 
-<li><a id="godden_2022_il" style="visibility: hidden"></a>D. Godden & S. Wells (2022) "<em>Burdens of Proposing </em>"<br/> in the special issue on <a href="https://informallogic.ca/index.php/informal_logic/issue/view/700">Douglas Walton and his Contributions to Argumentation Theory</a> of <a href="https://informallogic.ca">Informal Logic</a> vol. 42, no. 1, pp. 291--342.<br />
+<li><a id="godden_2022_il" style="visibility: hidden"></a>D. Godden & S. Wells (2022) "<em>Burdens of Proposing: On the Burden of Proof in Deliberation Dialogues</em>"<br/> in the special issue on <a href="https://informallogic.ca/index.php/informal_logic/issue/view/700">Douglas Walton and his Contributions to Argumentation Theory</a> of <a href="https://informallogic.ca">Informal Logic</a> vol. 42, no. 1, pp. 291--342.<br />
 <div style="text-align: right">[ <a href="https://informallogic.ca/index.php/informal_logic/article/view/7225/5379">pdf</a> | <a href="/assets/papers/godden_2022_il.pdf">pdf (eprint)</a> ]</div><br/></li>
 
 <li><a id="snaith_2021_cmna" style="visibility: hidden"></a>M. Snaith & S. Wells (2021) "<em>Towards a Declarative Approach to Constructing Dialogue Games</em>"<br/> in the 21st International Workshop on <a href="https://cmna-workshop.github.io/cmna21/">Computational Models of Natural Argument (CMNA'21)</a><br />
