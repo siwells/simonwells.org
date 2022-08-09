@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; 2001-2018 - Simon Wells</copyright>
-    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.simonwells.org/index.xml" rel="self" type="application/rss+xml" />
     
@@ -67,6 +67,15 @@
       <guid>http://www.simonwells.org/bio/</guid>
       <description>Simon Wells is a lecturer in the School of Computing at Edinburgh Napier University.
 His research interests lie generally in Artificial Intelligence with a specific focus on reasoning, decision-making, and strategic interaction achieved via formal and applied argumentation-based techniques.</description>
+    </item>
+    
+    <item>
+      <title>New Paper in Informal Logic</title>
+      <link>http://www.simonwells.org/news/2022.03.16_informal-logic/</link>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/news/2022.03.16_informal-logic/</guid>
+      <description>My latest paper, co-written with my colleague David Godden of Michigan State University, is entitled &amp;ldquo;Burdens of Proposing &amp;rdquo; and is collected into a special issue celebrating the work of Douglas Walton and his Contributions to Argumentation Theory.</description>
     </item>
     
     <item>
