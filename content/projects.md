@@ -6,6 +6,9 @@ weight = "30"
 meta = "false"
 +++
 
+* The West of Scotland Herring Hunt ([WOSHH](https://scottishherring.org/projects/woshh/)) - A marine conservation and sustainability project that focusses on Scottish West Coast Herring fishing, sustainabilty, and conservation in both historical and contemporary contexts. Core funding for the project is from the [William Grant Foundation](https://www.williamgrantfoundation.org.uk/) to the value of £154,550.45 but smaller supplementary grants are envisaged to underright some of our goals, for example, Edinburgh Napier University funded part of the development of our website and herring hunt tool, as well as the recent Gairloch public engagement event where we launched the [ScottishHerring.org](https://scottishherring.org/) site.
+<div style="text-align: right">[STATUS: ONGOING] 2021 -- Present</div>
+
 * REMAR - This is a marine sustainability project that is focussed on sustainable fishing and conservation of Brazilian Mangrove Crabs. My colleague in the School of Applied Sciences, [Karen Diele](https://www.napier.ac.uk/people/karen-diele), is PI but the School of Computing, with myself taking the lead, has provided technical support and implementation for the data gathering, analysis, and presentation. Our data is currently displayed in our [data dashboard](http://crabdata.napier.ac.uk/public/) and there is a deployed [Android app](https://github.com/REMAR-Project/android-app-v2.0.4), localised to Portuguese that is used to gather data on the ground in Brazil. All source code for our tools is open and available under the GPL3 license.
 <div style="text-align: right">[STATUS: ONGOING] 2016 -- Present</div>
 
