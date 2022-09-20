@@ -8,6 +8,8 @@ meta = "false"
 
 <ol reversed>
 
+<li><a id="cmna_2022" style="visibility: hidden"></a>&ldquo;Reconsidering RepStat Rules in Dialectical Games &rdquo;, Presented to the Twenty-Second International Workshop on Computational Models of Natural Argument held in Cardiff on 12th September 2022.<br /> <div style="text-align: right">[ <a href="/assets/talks/2022.09.12_cmna.pdf">pdf (slides)</a> ]</div><br /></li>
+
 <li><a id="cmna_2021" style="visibility: hidden"></a>&ldquo;Towards a Declarative Approach to Constructing Dialogue Games &rdquo;, Presented to the Twenty-First International Workshop on Computational Models of Natural Argument held virtually on 2nd September 2021.<br /> <div style="text-align: right">[ <a href="/assets/talks/2021.09.02_cmna.pdf">pdf (slides)</a> ]</div><br /></li>
 
 <li><a id="sicsaai2021" style="visibility: hidden"></a>&ldquo;AI Research @ Edinburgh Napier University &rdquo;, Presented to the 2021 SICSA-AI All Hands meeting held virtually on 17th June 2021.<br /> <div style="text-align: right">[ <a href="/assets/talks/2021.06.17_sicsa-ai.pdf">pdf (slides)</a> ]</div><br /></li>
