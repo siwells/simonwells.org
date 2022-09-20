@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; 2001-2018 - Simon Wells</copyright>
-    <lastBuildDate>Thu, 04 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.simonwells.org/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,7 +18,8 @@
       <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.simonwells.org/publications/</guid>
-      <description>D. Godden &amp; S. Wells (2022) &#34;Burdens of Proposing: On the Burden of Proof in Deliberation Dialogues&#34; in the special issue on Douglas Walton and his Contributions to Argumentation Theory of Informal Logic vol.</description>
+      <description>S. Wells &amp; M. Snaith (2022) &#34;Reconsidering RepStat Rules in Dialectical Games&#34; in proceeding of the the 22nd International Workshop on Computational Models of Natural Argument (CMNA&#39;22)
+[ pdf (CEUR) | pdf (eprint) ] D.</description>
     </item>
     
     <item>
@@ -36,7 +37,7 @@
       <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.simonwells.org/talks/</guid>
-      <description>&amp;ldquo;Towards a Declarative Approach to Constructing Dialogue Games &amp;rdquo;, Presented to the Twenty-First International Workshop on Computational Models of Natural Argument held virtually on 2nd September 2021.
+      <description>&amp;ldquo;Reconsidering RepStat Rules in Dialectical Games &amp;rdquo;, Presented to the Twenty-Second International Workshop on Computational Models of Natural Argument held in Cardiff on 12th September 2022.
 [ pdf (slides) ]</description>
     </item>
     
@@ -69,6 +70,25 @@ His research interests lie generally in Artificial Intelligence with a specific 
     </item>
     
     <item>
+      <title>New Paper at CMNA&#39;22</title>
+      <link>http://www.simonwells.org/news/2022.09.12_cmna22-paper/</link>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/news/2022.09.12_cmna22-paper/</guid>
+      <description>My latest paper, titled &amp;ldquo;Reconsidering RepStat Rules in Dialectical Games&amp;rdquo;, will be presented at the upcoming 22nd Annual International Workshop on Computational Models of Natural Argument (CMNA&#39;22).
+The paper is joint work with Mark Snaith from RGU in which we investigate rules governing repetition of statements within dialectical games in the context of conversational AI.</description>
+    </item>
+    
+    <item>
+      <title>22nd International Workshop on Computational Models of Natural Argument</title>
+      <link>http://www.simonwells.org/news/2022.09.01_cmna22/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/news/2022.09.01_cmna22/</guid>
+      <description>The 22nd annual international workshop on Computational Models of Natural Argument (CMNA&#39;22) will run on 12th September in Cardiff. This year, in line with the peripatetic tradition of CMNA, we will be hosted by the 9th International Conference on Computational Models of Argument (COMMA 2022).</description>
+    </item>
+    
+    <item>
       <title>Gairloch Public Outreach Event</title>
       <link>http://www.simonwells.org/news/2022.08.04_gairloch/</link>
       <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
@@ -97,10 +117,10 @@ His research interests lie generally in Artificial Intelligence with a specific 
     
     <item>
       <title>New Paper at CMNA&#39;21</title>
-      <link>http://www.simonwells.org/news/2021.09.01_cmna/</link>
+      <link>http://www.simonwells.org/news/2021.09.01_cmna21/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://www.simonwells.org/news/2021.09.01_cmna/</guid>
+      <guid>http://www.simonwells.org/news/2021.09.01_cmna21/</guid>
       <description>My latest paper, titled &amp;ldquo;Towards a Declarative Approach to Constructing Dialogue Games&amp;rdquo;, will be presented at the upcoming 21st International Workshop in Computational Models of Natural Argument (CMNA&#39;21).
 The paper is joint work with Mark Snaith from RGU in which we sketch out a new programme of research into how dialogue games, expressed using a new sub-unit of the DGDL called &amp;ldquo;fragments&amp;rdquo;, can be re-used in new contexts.</description>
     </item>
