@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; 2001-2018 - Simon Wells</copyright>
-    <lastBuildDate>Mon, 12 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.simonwells.org/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,8 +18,7 @@
       <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.simonwells.org/publications/</guid>
-      <description>S. Wells &amp; M. Snaith (2022) &#34;Reconsidering RepStat Rules in Dialectical Games&#34; in proceeding of the the 22nd International Workshop on Computational Models of Natural Argument (CMNA&#39;22)
-[ pdf (CEUR) | pdf (eprint) ] D.</description>
+      <description>S. Wells &amp; M. Snaith (2023) &#34;On The Role of Dialogue Models in the Age of Large Language Models&#34; in proceeding of the the 23rd International Workshop on Computational Models of Natural Argument (CMNA&#39;23)</description>
     </item>
     
     <item>
@@ -37,8 +36,7 @@
       <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.simonwells.org/talks/</guid>
-      <description>&amp;ldquo;Reconsidering RepStat Rules in Dialectical Games &amp;rdquo;, Presented to the Twenty-Second International Workshop on Computational Models of Natural Argument held in Cardiff on 12th September 2022.
-[ pdf (slides) ]</description>
+      <description>&amp;ldquo;On The Role of Dialogue Models in the Age of Large Language Models &amp;rdquo;, Presented to the Twenty-Third International Workshop on Computational Models of Natural Argument held online on the 1st of December 2023.</description>
     </item>
     
     <item>
@@ -67,6 +65,15 @@
       <guid>http://www.simonwells.org/bio/</guid>
       <description>Simon Wells is a lecturer in the School of Computing at Edinburgh Napier University.
 His research interests lie generally in Artificial Intelligence with a specific focus on reasoning, decision-making, and strategic interaction achieved via formal and applied argumentation-based techniques.</description>
+    </item>
+    
+    <item>
+      <title>New Paper at CMNA&#39;23</title>
+      <link>http://www.simonwells.org/news/2023.11.29_cmna23-paper/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/news/2023.11.29_cmna23-paper/</guid>
+      <description>My latest paper, titled &amp;ldquo;On The Role of Dialogue Models in the Age of Large Language Models&amp;rdquo;, will be presented at the upcoming 23rd Annual International Workshop on Computational Models of Natural Argument (CMNA&#39;23).</description>
     </item>
     
     <item>
