@@ -8,6 +8,10 @@ meta = "false"
 
 <ol reversed>
 
+<li><a id="cmna_2023" style="visibility: hidden"></a>&ldquo;On The Role of Dialogue Models in the Age of Large Language Models &rdquo;, Presented to the <a href="https://cmna-workshop.github.io/cmna23/">Twenty-Third International Workshop on Computational Models of Natural Argument</a> held online on the 1st of December 2023.<br />
+<blockquote><strong>Abstract: </strong>We consider the roles that dialogue models play in computational dialogue, how that role is changing with the advent of large-language models (LLMs) that are increasingly capable of dialogue, and argue that even with LLMs that are maximally capable of engaging in dialogue , there’ll still be a role for dialogue model research as in order to provide external bench-marks and regulatory guidance, for LLMs, just as they do for humans.</blockquote><br /> <div style="text-align: right">[ <a href="/assets/talks/2023.12.01_cmna.pdf">pdf (slides)</a> ]</div><br /></li>
+
+
 <li><a id="cmna_2022" style="visibility: hidden"></a>&ldquo;Reconsidering RepStat Rules in Dialectical Games &rdquo;, Presented to the Twenty-Second International Workshop on Computational Models of Natural Argument held in Cardiff on 12th September 2022.<br /> <div style="text-align: right">[ <a href="/assets/talks/2022.09.12_cmna.pdf">pdf (slides)</a> ]</div><br /></li>
 
 <li><a id="cmna_2021" style="visibility: hidden"></a>&ldquo;Towards a Declarative Approach to Constructing Dialogue Games &rdquo;, Presented to the Twenty-First International Workshop on Computational Models of Natural Argument held virtually on 2nd September 2021.<br /> <div style="text-align: right">[ <a href="/assets/talks/2021.09.02_cmna.pdf">pdf (slides)</a> ]</div><br /></li>
