@@ -10,6 +10,10 @@ meta = "false"
 
 <ol reversed>
 
+<li><a id="zenker_2023_slgr" style="visibility: hidden"></a>F. Zenker, K. Debowska-Kozlowska, D. Godden, M. Selinger, & S. Wells (2023) "<em>Thou Shalt Not Squander Life – Comparing Five Approaches to Argument Strength</em>"<br/> in  <a href="https://sciendo.com/journal/SLGR">Studies in Logic, Grammar, & Rhetoric</a> vol. 68, no. 1, pp. 133--167.<br />
+<div style="text-align: right">Paper: [ <a href="https://doi.org/10.2478/slgr-2023-0007">pdf (DOI) | <a href="https://sciendo.com/article/10.2478/slgr-2023-0007">pdf (journal site)</a></a> ]</div><br/></li>
+
+
 <li><a id="wells_2023_cmna" style="visibility: hidden"></a>S. Wells & M. Snaith (2023) "<em>On The Role of Dialogue Models in the Age of Large Language Models</em>"<br/> in proceeding of the the 23rd International Workshop on <a href="https://cmna-workshop.github.io/cmna23/">Computational Models of Natural Argument (CMNA'23)</a><br />
 <div style="text-align: right">[ <a href="https://cmna-workshop.github.io/cmna23/assets/papers/abstract2.pdf">pdf (CMNA Site)</a> | <a href="#">pdf (CEUR)</a> | <a href="/assets/papers/wells_2023_cmna.pdf">pdf (eprint)</a> ]</div><br/></li>
 
