@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; 2001-2018 - Simon Wells</copyright>
-    <lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.simonwells.org/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,7 +18,7 @@
       <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.simonwells.org/publications/</guid>
-      <description>S. Wells &amp; M. Snaith (2023) &#34;On The Role of Dialogue Models in the Age of Large Language Models&#34; in proceeding of the the 23rd International Workshop on Computational Models of Natural Argument (CMNA&#39;23)</description>
+      <description>F. Zenker, K. Debowska-Kozlowska, D. Godden, M. Selinger, &amp; S. Wells (2023) &#34;Thou Shalt Not Squander Life – Comparing Five Approaches to Argument Strength&#34; in Studies in Logic, Grammar, &amp; Rhetoric vol.</description>
     </item>
     
     <item>
@@ -65,6 +65,15 @@
       <guid>http://www.simonwells.org/bio/</guid>
       <description>Simon Wells is a lecturer in the School of Computing at Edinburgh Napier University.
 His research interests lie generally in Artificial Intelligence with a specific focus on reasoning, decision-making, and strategic interaction achieved via formal and applied argumentation-based techniques.</description>
+    </item>
+    
+    <item>
+      <title>New Paper in Studies in Logic, Grammar &amp; Rhetoric</title>
+      <link>http://www.simonwells.org/news/2023.12.31_slgr-paper/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/news/2023.12.31_slgr-paper/</guid>
+      <description>My latest paper, titled &amp;ldquo;Thou Shalt Not Squander Life - contrasting five theoretical approaches to argument strength&amp;rdquo;, has just been published in volume 69 of Studies in Logic, Grammar, and Rhetoric.</description>
     </item>
     
     <item>
