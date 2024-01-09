@@ -15,7 +15,7 @@ meta = "false"
 
 
 <li><a id="wells_2023_cmna" style="visibility: hidden"></a>S. Wells & M. Snaith (2023) "<em>On The Role of Dialogue Models in the Age of Large Language Models</em>"<br/> in proceeding of the the 23rd International Workshop on <a href="https://cmna-workshop.github.io/cmna23/">Computational Models of Natural Argument (CMNA'23)</a><br />
-<div style="text-align: right">Extended Abstract: [ <a href="https://cmna-workshop.github.io/cmna23/assets/papers/abstract2.pdf">pdf (CMNA Site)</a> | <a href="#">pdf (CEUR)</a> | <a href="/assets/papers/wells_2023_cmna.pdf">pdf (eprint)</a> ]</div><br/></li>
+<div style="text-align: right">Extended Abstract: [ <a href="https://cmna-workshop.github.io/cmna23/assets/papers/abstract2.pdf">pdf (CMNA Site)</a> | <a href="https://ceur-ws.org/Vol-3614/abstract2.pdf">pdf (CEUR)</a> | <a href="/assets/papers/wells_2023_cmna.pdf">pdf (eprint)</a> ]</div><br/></li>
 
 <li><a id="wells_2022_cmna" style="visibility: hidden"></a>S. Wells & M. Snaith (2022) "<em>Reconsidering RepStat Rules in Dialectical Games</em>"<br/> in proceeding of the the 22nd International Workshop on <a href="https://cmna-workshop.github.io/cmna22/">Computational Models of Natural Argument (CMNA'22)</a><br />
 <div style="text-align: right">[ <a href="http://ceur-ws.org/Vol-3205/paper3.pdf">pdf (CEUR)</a> | <a href="/assets/papers/wells_2022_cmna.pdf">pdf (eprint)</a> ]</div><br/></li>
