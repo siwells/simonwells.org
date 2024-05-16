@@ -7,10 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; 2001-2018 - Simon Wells</copyright>
-    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.simonwells.org/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Talk at the 2024 Scottish Argumentation Day</title>
+      <link>http://www.simonwells.org/news/2024.05.16_scotarg24-talk/</link>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/news/2024.05.16_scotarg24-talk/</guid>
+      <description>I&amp;rsquo;ll be giving a talk on &amp;ldquo;Platforms for Supporting Argumentation Research&amp;rdquo;, focussing specifically on the Open Argumentation Platform at the upcoming 2024 Scottish Argumentation Day.</description>
+    </item>
     
-	<atom:link href="http://www.simonwells.org/news/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Call for papers for the 24th International Workshop on Computational Models of Natural Argument</title>
+      <link>http://www.simonwells.org/news/2024.02.01_cmna24-cfp/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonwells.org/news/2024.02.01_cmna24-cfp/</guid>
+      <description>The 24th annual international workshop on Computational Models of Natural Argument (CMNA&#39;24) will run on 17th September this year as part of the Computational Models of Argument Conference.
+This year we are soliciting contributions on the special theme of “domains of natural argument”.</description>
+    </item>
     
     <item>
       <title>New Paper in Studies in Logic, Grammar &amp; Rhetoric</title>

@@ -6,10 +6,6 @@
     <description>Recent content in Categories on Dr Simon Wells</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>Copyright &amp;copy; 2001-2018 - Simon Wells</copyright>
-    
-	<atom:link href="http://www.simonwells.org/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Copyright &amp;copy; 2001-2018 - Simon Wells</copyright><atom:link href="http://www.simonwells.org/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

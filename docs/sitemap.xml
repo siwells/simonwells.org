@@ -1,173 +1,111 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>http://www.simonwells.org/news/</loc>
-    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2024-05-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://www.simonwells.org/publications/</loc>
     <lastmod>2018-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/projects/</loc>
     <lastmod>2018-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/talks/</loc>
     <lastmod>2018-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/teaching/</loc>
     <lastmod>2018-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/contact/</loc>
     <lastmod>2018-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/bio/</loc>
     <lastmod>2018-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/</loc>
-    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2024-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonwells.org/news/2024.05.16_scotarg24-talk/</loc>
+    <lastmod>2024-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonwells.org/news/2024.02.01_cmna24-cfp/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://www.simonwells.org/news/2023.12.31_slgr-paper/</loc>
     <lastmod>2023-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/news/2023.11.29_cmna23-paper/</loc>
     <lastmod>2023-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/news/2023.11.21_cmna23/</loc>
     <lastmod>2023-11-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/news/2022.09.12_cmna22-paper/</loc>
     <lastmod>2022-09-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/news/2022.09.01_cmna22/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/news/2022.08.04_gairloch/</loc>
     <lastmod>2022-08-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/news/2022.03.16_informal-logic/</loc>
     <lastmod>2022-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/news/2021.11.01_woshh/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/news/2021.09.01_cmna21/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/news/2021.08.12_cgf/</loc>
     <lastmod>2021-08-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/news/2021.06.17_sicsaai/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/news/2020.09.08_cmna20/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/news/2020.09.08_comma2020/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/news/2020.05.27_third-trust-workshop/</loc>
     <lastmod>2020-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/news/2019.06.27_eca&#43;partisan/</loc>
     <lastmod>2019-06-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/news/2019.06.27_eca&#43;strength/</loc>
     <lastmod>2019-06-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/news/2019.04.05_issa&#43;proceedings/</loc>
     <lastmod>2019-04-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/news/2018.12.07_ieee/</loc>
     <lastmod>2018-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/news/2018.12.06_imhb/</loc>
     <lastmod>2018-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/news/2018.07.06_issa/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/news/2018.06.27_realx/</loc>
     <lastmod>2018-06-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/news/2018.05.06_first-trust-workshop/</loc>
     <lastmod>2018-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/news/2018.05.04_advert_2018-05-31/</loc>
     <lastmod>2018-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/news/2018.04.17_dark.patterns.workshop/</loc>
     <lastmod>2018-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonwells.org/tags/</loc>
   </url>
-  
 </urlset>
