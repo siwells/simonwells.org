@@ -7,8 +7,22 @@
     <generator>Hugo</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; 2001-2018 - Simon Wells</copyright>
-    <lastBuildDate>Thu, 16 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.simonwells.org/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Paper at SICSA REALLM Workshop</title>
+      <link>http://www.simonwells.org/news/2024.10.17_reallm/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.simonwells.org/news/2024.10.17_reallm/</guid>
+      <description>My latest paper, titled &amp;ldquo;On The Role of Dialogue Models in the Age of Large Language Models&amp;rdquo;, will be presented at the upcoming SICSA Workshop on Reasoning, Explanations and Applications of Large Language Models (REALLM).</description>
+    </item>
+    <item>
+      <title>24th International Workshop on Computational Models of Natural Argument</title>
+      <link>http://www.simonwells.org/news/2024.09.17_cmna24/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.simonwells.org/news/2024.09.17_cmna24/</guid>
+      <description>The 24th annual international workshop on Computational Models of Natural Argument (CMNA&#39;24) will run on 17th September in Hagen, Germany. This year, in line with the peripatetic tradition of CMNA, we will be hosted by the 10th International Conference on Computational Models of Argument (COMMA 2024).</description>
+    </item>
     <item>
       <title>Talk at the 2024 Scottish Argumentation Day</title>
       <link>http://www.simonwells.org/news/2024.05.16_scotarg24-talk/</link>
