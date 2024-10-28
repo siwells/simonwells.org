@@ -4,8 +4,9 @@
     <title>Tags on Dr Simon Wells</title>
     <link>http://www.simonwells.org/tags/</link>
     <description>Recent content in Tags on Dr Simon Wells</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    <copyright>Copyright &amp;copy; 2001-2018 - Simon Wells</copyright><atom:link href="http://www.simonwells.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2001-2018 - Simon Wells</copyright>
+    <atom:link href="http://www.simonwells.org/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
