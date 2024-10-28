@@ -10,6 +10,9 @@ meta = "false"
 
 <ol reversed>
 
+<li><a id="snaith_2024_reallm" style="visibility: hidden"></a>M. Snaith & S. Wells (2024) "<em>Formal Dialogue and Large Language Models</em>", presented at the SICSA Workshop on Reasoning, Explanations and Applications of Large Language Models (<a href="https://reallm.rguairgroup.com/home">REALLM</a>), Aberdeen, UK.<br /> 
+ <div style="text-align: right">[ <a href="/assets/papers/snaith_2024_reallm.pdf">pdf (eprint)</a><!-- | <a href="http://ceur-ws.org/Vol-2151/Paper_S8.pdf">pdf (CEUR)</a>--> ]</div><br/></li>
+
 <li><a id="zenker_2023_slgr" style="visibility: hidden"></a>F. Zenker, K. Debowska-Kozlowska, D. Godden, M. Selinger, & S. Wells (2023) "<em>Thou Shalt Not Squander Life – Comparing Five Approaches to Argument Strength</em>"<br/> in  <a href="https://sciendo.com/journal/SLGR">Studies in Logic, Grammar, & Rhetoric</a> vol. 68, no. 1, pp. 133--167.<br />
 <div style="text-align: right">Paper: [ <a href="https://doi.org/10.2478/slgr-2023-0007">pdf (DOI) | <a href="https://sciendo.com/article/10.2478/slgr-2023-0007">pdf (journal site)</a></a> ]</div><br/></li>
 
