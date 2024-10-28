@@ -11,22 +11,22 @@ summaryLength = 30
 enableEmoji = true
 pygmentsCodeFences = true
 
-[author]
-    name = "Simon Wells"
-    github = "siwells"
-    gitlab = ""
-    linkedin = ""
-    facebook = ""
-    twitter = ""
-    instagram = ""
-    googlescholar = "NJ4EZFwAAAAJ"
-    orcid = "0000-0003-4512-7868"
-    figshare = "Simon Wells/98148"
-    researchgate = "Simon_Wells3"
-
 [params]
     tagline = "sesquipedalia verba"
     description = "my academic life"
+    [params.author]
+        name = "Simon Wells"
+        github = "siwells"
+        gitlab = ""
+        linkedin = ""
+        facebook = ""
+        twitter = ""
+        instagram = ""
+        googlescholar = "NJ4EZFwAAAAJ"
+        orcid = "0000-0003-4512-7868"
+        figshare = "Simon Wells/98148"
+        researchgate = "Simon_Wells3"
+
 
 [markup.goldmark.renderer] 
     unsafe= true
