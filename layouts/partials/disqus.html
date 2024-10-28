@@ -3,7 +3,6 @@
 </section>
 
 <section id="disqus_thread"></section>
-
 <script>
       (function () {
             // Don't ever inject Disqus on localhost--it creates unwanted
@@ -12,7 +11,7 @@
                   return;
 
             var disqus_loaded = false;
-            var disqus_shortname = '{{ .Site.DisqusShortname }}';
+            var disqus_shortname = '{{ .Site.Config.Services.Disqus.Shortname }}';
             var disqus_button = document.getElementById("show-comments");
 
             disqus_button.style.display = "";
