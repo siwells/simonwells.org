@@ -7,14 +7,14 @@
     <generator>Hugo</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; 2001-2018 - Simon Wells</copyright>
-    <lastBuildDate>Thu, 17 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.simonwells.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
       <link>http://www.simonwells.org/publications/</link>
       <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
       <guid>http://www.simonwells.org/publications/</guid>
-      <description>M. Snaith &amp; S. Wells (2024) &#34;Formal Dialogue and Large Language Models&#34;, presented at the SICSA Workshop on Reasoning, Explanations and Applications of Large Language Models (REALLM), Aberdeen, UK.</description>
+      <description>S. Wells (2025) &#34;Dialogue Cartography&#34; extended abstract for presentation at the 5th European Conference on Argumentation (ECA 2025)&#xA;Extended Abstract: [ pdf (eprint) | pdf (ECA&#39;25 Book of Abstracts)] M.</description>
     </item>
     <item>
       <title>Projects</title>
@@ -28,7 +28,7 @@
       <link>http://www.simonwells.org/talks/</link>
       <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
       <guid>http://www.simonwells.org/talks/</guid>
-      <description>&amp;ldquo;Platforms for Supporting Argumentation Research&amp;rdquo;, presented at the 2024 Scottish Argumentation Day, hosted by the School of Informatics, University of Edinburgh, on Friday 17th May 2024.&#xA;[ pdf (slides) ]</description>
+      <description>&amp;ldquo;Dialogue Cartography&amp;rdquo;, presented at the Fifth European Conference on Argumentation, hosted by Warsaw University of Technology, Faculty of Administration and Social Sciences, Warsaw, Poland, on Thursday 25th September 2025.</description>
     </item>
     <item>
       <title>Teaching</title>
@@ -50,6 +50,20 @@
       <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
       <guid>http://www.simonwells.org/bio/</guid>
       <description>Simon Wells is a lecturer in the School of Computing at Edinburgh Napier University.&#xA;His research interests lie generally in Artificial Intelligence with a specific focus on reasoning, decision-making, and strategic interaction achieved via formal and applied argumentation-based techniques.</description>
+    </item>
+    <item>
+      <title>Call for papers for the 25th International Workshop on Computational Models of Natural Argument</title>
+      <link>http://www.simonwells.org/news/2025.10.12_cmna25-cfp/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.simonwells.org/news/2025.10.12_cmna25-cfp/</guid>
+      <description>The 25th annual international workshop on Computational Models of Natural Argument (CMNA&#39;25) will run on 12th December this year. CMNA&#39;25 will run as a free, open, online workshop in this, our twenty-fifth year.</description>
+    </item>
+    <item>
+      <title>Dialogue Cartography paper at ECA&#39;25</title>
+      <link>http://www.simonwells.org/news/2025.09.24_eca25-talk/</link>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.simonwells.org/news/2025.09.24_eca25-talk/</guid>
+      <description>I presented my latest research on &amp;ldquo;Dialogue Cartography&amp;quot;(extended abstract), at the Fifth European Conference on Argumentation. The slides from the presentation are available with final paper to follow as the post-proceedings publications comes together in November.</description>
     </item>
     <item>
       <title>New Paper at SICSA REALLM Workshop</title>
