@@ -8,7 +8,7 @@ meta = "false"
 
 <ol reversed>
 
-<li><a id="eca25a" style="visibility: hidden"></a>&ldquo;Dialogue Cartography&rdquo;, presented at the <a href="https://ecargument.org/">Fifth European Conference on Argumentation</a>, hosted by <a href="https://eng.pw.edu.pl/">Warsaw University of Technology</a>, <a href="https://eng.ans.pw.edu.pl/">Faculty of Administration and Social Sciences</a>, Warsaw, Poland, on Thursday 25th September 2025.<br /> <div style="text-align: right">[ <a href="/assets/talks/2025.09.25_eca.pdf">pdf (slides)</a> ]</div><br /></li>
+<li><a id="eca_2025_a" style="visibility: hidden"></a>&ldquo;Dialogue Cartography&rdquo;, presented at the <a href="https://ecargument.org/">Fifth European Conference on Argumentation</a>, hosted by <a href="https://eng.pw.edu.pl/">Warsaw University of Technology</a>, <a href="https://eng.ans.pw.edu.pl/">Faculty of Administration and Social Sciences</a>, Warsaw, Poland, on Thursday 25th September 2025.<br /> <div style="text-align: right">[ <a href="/assets/talks/2025.09.25_eca.pdf">pdf (slides)</a> ]</div><br /></li>
 
 <li><a id="scotarg24" style="visibility: hidden"></a>&ldquo;Platforms for Supporting Argumentation Research&rdquo;, presented at the 2024 Scottish Argumentation Day, hosted by the School of Informatics, University of Edinburgh, on Friday 17th May 2024.<br /> <div style="text-align: right">[ <a href="/assets/talks/2024.05.17_scotarg.pdf">pdf (slides)</a> ]</div><br /></li>
 
