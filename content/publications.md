@@ -10,6 +10,9 @@ meta = "false"
 
 <ol reversed>
 
+<li><a id="wells_2025_eca" style="visibility: hidden"></a>S. Wells (2025) "<em>Dialogue Cartography</em>"<br/> extended abstract for presentation at the <a href="https://ecargument.org/">5th European Conference on Argumentation (ECA 2025)</a><br />
+<div style="text-align: right">Extended Abstract: [ <a href="/assets/papers/wells_2025_eca.pdf">pdf (eprint)</a>  | <a href="http://ecargument.org/wp-content/uploads/2025/09/BOA-final.pdf">pdf (ECA'25 Book of Abstracts)</a>] </div><br/></li>
+
 <li><a id="snaith_2024_reallm" style="visibility: hidden"></a>M. Snaith & S. Wells (2024) "<em>Formal Dialogue and Large Language Models</em>", presented at the SICSA Workshop on Reasoning, Explanations and Applications of Large Language Models (<a href="https://reallm.rguairgroup.com/home">REALLM</a>), Aberdeen, UK.<br /> 
  <div style="text-align: right">[ <a href="/assets/papers/snaith_2024_reallm.pdf">pdf (eprint)</a> | <a href="https://ceur-ws.org/Vol-3822/short3.pdf">pdf (CEUR)</a> ]</div><br/></li>
 
