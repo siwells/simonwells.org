@@ -10,6 +10,9 @@ meta = "false"
 
 <ol reversed>
 
+<li><a id="snaith_2025_eca" style="visibility: hidden"></a>M. Snaith & S. Wells (2025) "<em>Retrieval Augmented Generation for Immersive Formal Dialogue</em>"<br /> Abstract for presentation at the <a href="https://ecargument.org/">5th European Conference on Argumentation (ECA 2025)</a><br />
+<div style="text-align: right">Abstract: [ <a href="/assets/abstracts/snaith_2025_eca.pdf">pdf (eprint)</a>  | <a href="http://ecargument.org/wp-content/uploads/2025/09/BOA-final.pdf">pdf (ECA'25 Book of Abstracts)</a>] </div><br/></li>
+
 <li><a id="wells_2025_eca" style="visibility: hidden"></a>S. Wells (2025) "<em>Dialogue Cartography</em>"<br/> extended abstract for presentation at the <a href="https://ecargument.org/">5th European Conference on Argumentation (ECA 2025)</a><br />
 <div style="text-align: right">Extended Abstract: [ <a href="/assets/papers/wells_2025_eca.pdf">pdf (eprint)</a>  | <a href="http://ecargument.org/wp-content/uploads/2025/09/BOA-final.pdf">pdf (ECA'25 Book of Abstracts)</a>] </div><br/></li>
 
