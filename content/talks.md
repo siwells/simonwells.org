@@ -8,7 +8,7 @@ meta = "false"
 
 <ol reversed>
 
-<li><a id="wisconsin_2025" style="visibility: hidden"></a>&ldquo;Dialogue Cartography&rdquo;, presented at the <a href="https://www.wisc.edu/">University of Wisconsin-Madison</a>, hosted by <a href="https://jodischneider.com/">Jodi Schneider</a>, on Friday 3rd October 2025.<br /> <div style="text-align: right">[ <a href="/assets/talks/2025.10.03_wisconsin">pdf (slides)</a> ]</div><br /></li>
+<li><a id="wisconsin_2025" style="visibility: hidden"></a>&ldquo;Dialogue Cartography&rdquo;, presented at the <a href="https://www.wisc.edu/">University of Wisconsin-Madison</a>, hosted by <a href="https://jodischneider.com/">Jodi Schneider</a>, on Friday 3rd October 2025.<br /> <div style="text-align: right">[ <a href="/assets/talks/2025.10.03_wisconsin.pdf">pdf (slides)</a> ]</div><br /></li>
 
 
 <li><a id="eca_2025_a" style="visibility: hidden"></a>&ldquo;Dialogue Cartography&rdquo;, presented at the <a href="https://ecargument.org/">Fifth European Conference on Argumentation</a>, hosted by <a href="https://eng.pw.edu.pl/">Warsaw University of Technology</a>, <a href="https://eng.ans.pw.edu.pl/">Faculty of Administration and Social Sciences</a>, Warsaw, Poland, on Thursday 25th September 2025.<br /> <div style="text-align: right">[ <a href="/assets/talks/2025.09.25_eca.pdf">pdf (slides)</a> ]</div><br /></li>
