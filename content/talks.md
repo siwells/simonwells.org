@@ -8,6 +8,8 @@ meta = "false"
 
 <ol reversed>
 
+<li><a id="cmna_2025" style="visibility: hidden"></a>&ldquo;A Notation for Declaratively Describing Arguments &rdquo;, Presented to the Twenty-Fifth International Workshop on Computational Models of Natural Argument held virtually online on 25th December 2025.<br /> <div style="text-align: right">[ <a href="/assets/talks/2025.012.12_cmna.pdf">pdf (slides)</a> ]</div><br /></li>
+
 <li><a id="wisconsin_2025" style="visibility: hidden"></a>&ldquo;Dialogue Cartography&rdquo;, presented at the <a href="https://www.wisc.edu/">University of Wisconsin-Madison</a>, hosted by <a href="https://jodischneider.com/">Jodi Schneider</a>, on Friday 3rd October 2025.<br />
 <blockquote><strong>Abstract: </strong>In this presentation I discuss the Zonal ARgumentative DialOgue visualiZation (ZARDOZ) method, an integrated and comprehensive dialogue diagramming methodology, for use in analysing, understanding, mapping, and exploring, argumentative dialogues. We illustrate and explore the method by making use of, and mapping, two exemplar dialogues due to Walton, the tipping dialogue and the Santa Claus dialogue, and a third dialogue stemming from an online interaction about the 1969 Moon landings. This way I demonstrate diagramming of the classical dialogues from the argumentation theoretic literature alongside contemporary, multi-party, online interactions.</blockquote><br />
 
