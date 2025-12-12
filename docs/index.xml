@@ -7,14 +7,14 @@
     <generator>Hugo</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; 2001-2018 - Simon Wells</copyright>
-    <lastBuildDate>Sun, 12 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.simonwells.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
       <link>http://www.simonwells.org/publications/</link>
       <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
       <guid>http://www.simonwells.org/publications/</guid>
-      <description>M. Snaith &amp; S. Wells (2025) &#34;Retrieval Augmented Generation for Immersive Formal Dialogue&#34;&#xA;Abstract for presentation at the 5th European Conference on Argumentation (ECA 2025)&#xA;Abstract: [ pdf (eprint) | pdf (ECA&#39;25 Book of Abstracts)] S.</description>
+      <description>S. Wells &amp; M. Snaith (2025) &#34;A Notation for Declaratively Describing Arguments&#34; in proceeding of the the 25th International Workshop on Computational Models of Natural Argument (CMNA&#39;25)&#xA;Extended Abstract: [ pdf (CMNA Site) | pdf (CEUR) | pdf (eprint) ] M.</description>
     </item>
     <item>
       <title>Projects</title>
@@ -28,7 +28,7 @@
       <link>http://www.simonwells.org/talks/</link>
       <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
       <guid>http://www.simonwells.org/talks/</guid>
-      <description>&amp;ldquo;Dialogue Cartography&amp;rdquo;, presented at the University of Wisconsin-Madison, hosted by Jodi Schneider, on Friday 3rd October 2025.&#xA;Abstract: In this presentation I discuss the Zonal ARgumentative DialOgue visualiZation (ZARDOZ) method, an integrated and comprehensive dialogue diagramming methodology, for use in analysing, understanding, mapping, and exploring, argumentative dialogues.</description>
+      <description>&amp;ldquo;A Notation for Declaratively Describing Arguments &amp;rdquo;, Presented to the Twenty-Fifth International Workshop on Computational Models of Natural Argument held virtually online on 25th December 2025.&#xA;[ pdf (slides) ]</description>
     </item>
     <item>
       <title>Teaching</title>
@@ -50,6 +50,20 @@
       <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
       <guid>http://www.simonwells.org/bio/</guid>
       <description>Simon Wells is a lecturer in the School of Computing at Edinburgh Napier University.&#xA;His research interests lie generally in Artificial Intelligence with a specific focus on reasoning, decision-making, and strategic interaction achieved via formal and applied argumentation-based techniques.</description>
+    </item>
+    <item>
+      <title>SADN presentation at CMNA&#39;25</title>
+      <link>http://www.simonwells.org/news/2025.12.12_cmna25-talk/</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.simonwells.org/news/2025.12.12_cmna25-talk/</guid>
+      <description>Today I presented my latest paper, joint work with Mark Snaith, on the Simple Argument Description Notation (SADN) to the CMNA community at the 25th annual international workshop on Computational Models of Natural Argument (CMNA&#39;25).</description>
+    </item>
+    <item>
+      <title>New Paper at CMNA&#39;25 - A Notation for Declaratively Describing Arguments</title>
+      <link>http://www.simonwells.org/news/2025.12.01_cmna25-paper/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.simonwells.org/news/2025.12.01_cmna25-paper/</guid>
+      <description>My latest paper, joint work with Mark Snaith, on the Simple Argument Description Notation (SADN) has been accepted to the 25th annual international workshop on Computational Models of Natural Argument (CMNA&#39;25).</description>
     </item>
     <item>
       <title>Call for papers for the 25th International Workshop on Computational Models of Natural Argument</title>
