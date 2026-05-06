@@ -10,6 +10,9 @@ meta = "false"
 
 <ol reversed>
 
+<li><a id="wells_2026_eca" style="visibility: hidden"></a>S. Wells (2026) "<em>Dialogue Cartography</em>"<br/> to appear in the proceedings of the <a href="https://ecargument.org/">5th European Conference on Argumentation (ECA 2025)</a>, College Publications, Studies in Logic (in press).<br />
+<div style="text-align: right"> <a href=""></a>] </div><br/></li>
+
 <li><a id="snaith_2026_eca" style="visibility: hidden"></a>M. Snaith & S. Wells (2026) "<em>Retrieval Augmented Generation for Immersive Formal Dialogue</em>"<br /> in the proceedings of the <a href="https://ecargument.org/">5th European Conference on Argumentation (ECA 2025)</a>, College Publications, Studies in Logic (in press).<br />
 <div style="text-align: right"> <a href=""></a>] </div><br/></li>
 
