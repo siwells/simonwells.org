@@ -16,7 +16,7 @@ meta = "false"
 <li><a id="snaith_2026_eca" style="visibility: hidden"></a>M. Snaith & S. Wells (2026) "<em>Retrieval Augmented Generation for Immersive Formal Dialogue</em>"<br /> to appear in the proceedings of the <a href="https://ecargument.org/">5th European Conference on Argumentation (ECA 2025)</a>, College Publications, Studies in Logic (in press).<br />
 <div style="text-align: right"> <a href=""></a>] </div><br/></li>
 
-<li><a id="wells_2025_cmna" style="visibility: hidden"></a>S. Wells & M. Snaith (2025) "<em>A Notation for Declaratively Describing Arguments</em>"<br/> in proceeding of the the 25th International Workshop on <a href="https://cmna-workshop.github.io/cmna25/">Computational Models of Natural Argument (CMNA'25)</a>, <a href="https://ceur-ws.org/Vol-4166/">CEUR Volume #4166</a>, pp. 57-67.<br />
+<li><a id="wells_2025_cmna" style="visibility: hidden"></a>S. Wells & M. Snaith (2025) "<em>A Notation for Declaratively Describing Arguments</em>"<br/> in proceedings of the the 25th International Workshop on <a href="https://cmna-workshop.github.io/cmna25/">Computational Models of Natural Argument (CMNA'25)</a>, <a href="https://ceur-ws.org/Vol-4166/">CEUR Volume #4166</a>, pp. 57-67.<br />
 <div style="text-align: right">Extended Abstract: [ <a href="https://cmna-workshop.github.io/cmna25/assets/papers/wells.pdf">pdf (CMNA Site)</a> | <a href="https://ceur-ws.org/Vol-4166/paper5.pdf">pdf (CEUR)</a> | <a href="/assets/papers/wells_2025_cmna.pdf">pdf (eprint)</a> ]</div><br/></li>
 
 <li><a id="snaith_2025_eca" style="visibility: hidden"></a>M. Snaith & S. Wells (2025) "<em>Retrieval Augmented Generation for Immersive Formal Dialogue</em>"<br /> Abstract for presentation at the <a href="https://ecargument.org/">5th European Conference on Argumentation (ECA 2025)</a><br />
@@ -32,10 +32,10 @@ meta = "false"
 <div style="text-align: right">Paper: [ <a href="https://doi.org/10.2478/slgr-2023-0007">pdf (DOI) | <a href="https://sciendo.com/article/10.2478/slgr-2023-0007">pdf (journal site)</a></a> ]</div><br/></li>
 
 
-<li><a id="wells_2023_cmna" style="visibility: hidden"></a>S. Wells & M. Snaith (2023) "<em>On The Role of Dialogue Models in the Age of Large Language Models</em>"<br/> in proceeding of the the 23rd International Workshop on <a href="https://cmna-workshop.github.io/cmna23/">Computational Models of Natural Argument (CMNA'23)</a><br />
+<li><a id="wells_2023_cmna" style="visibility: hidden"></a>S. Wells & M. Snaith (2023) "<em>On The Role of Dialogue Models in the Age of Large Language Models</em>"<br/> in proceedings of the the 23rd International Workshop on <a href="https://cmna-workshop.github.io/cmna23/">Computational Models of Natural Argument (CMNA'23)</a><br />
 <div style="text-align: right">Extended Abstract: [ <a href="https://cmna-workshop.github.io/cmna23/assets/papers/abstract2.pdf">pdf (CMNA Site)</a> | <a href="https://ceur-ws.org/Vol-3614/abstract2.pdf">pdf (CEUR)</a> | <a href="/assets/papers/wells_2023_cmna.pdf">pdf (eprint)</a> ]</div><br/></li>
 
-<li><a id="wells_2022_cmna" style="visibility: hidden"></a>S. Wells & M. Snaith (2022) "<em>Reconsidering RepStat Rules in Dialectical Games</em>"<br/> in proceeding of the the 22nd International Workshop on <a href="https://cmna-workshop.github.io/cmna22/">Computational Models of Natural Argument (CMNA'22)</a><br />
+<li><a id="wells_2022_cmna" style="visibility: hidden"></a>S. Wells & M. Snaith (2022) "<em>Reconsidering RepStat Rules in Dialectical Games</em>"<br/> in proceedings of the the 22nd International Workshop on <a href="https://cmna-workshop.github.io/cmna22/">Computational Models of Natural Argument (CMNA'22)</a><br />
 <div style="text-align: right">[ <a href="http://ceur-ws.org/Vol-3205/paper3.pdf">pdf (CEUR)</a> | <a href="/assets/papers/wells_2022_cmna.pdf">pdf (eprint)</a> ]</div><br/></li>
 
 <li><a id="godden_2022_il" style="visibility: hidden"></a>D. Godden & S. Wells (2022) "<em>Burdens of Proposing: On the Burden of Proof in Deliberation Dialogues</em>"<br/> in the special issue on <a href="https://informallogic.ca/index.php/informal_logic/issue/view/700">Douglas Walton and his Contributions to Argumentation Theory</a> of <a href="https://informallogic.ca">Informal Logic</a> vol. 42, no. 1, pp. 291--342.<br />
