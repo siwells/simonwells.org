@@ -13,7 +13,7 @@ meta = "false"
 <li><a id="wells_2026_eca" style="visibility: hidden"></a>S. Wells (2026) "<em>Dialogue Cartography</em>"<br/> to appear in the proceedings of the <a href="https://ecargument.org/">5th European Conference on Argumentation (ECA 2025)</a>, College Publications, Studies in Logic (in press).<br />
 <div style="text-align: right"> <a href=""></a>] </div><br/></li>
 
-<li><a id="snaith_2026_eca" style="visibility: hidden"></a>M. Snaith & S. Wells (2026) "<em>Retrieval Augmented Generation for Immersive Formal Dialogue</em>"<br /> in the proceedings of the <a href="https://ecargument.org/">5th European Conference on Argumentation (ECA 2025)</a>, College Publications, Studies in Logic (in press).<br />
+<li><a id="snaith_2026_eca" style="visibility: hidden"></a>M. Snaith & S. Wells (2026) "<em>Retrieval Augmented Generation for Immersive Formal Dialogue</em>"<br /> to appear in the proceedings of the <a href="https://ecargument.org/">5th European Conference on Argumentation (ECA 2025)</a>, College Publications, Studies in Logic (in press).<br />
 <div style="text-align: right"> <a href=""></a>] </div><br/></li>
 
 <li><a id="wells_2025_cmna" style="visibility: hidden"></a>S. Wells & M. Snaith (2025) "<em>A Notation for Declaratively Describing Arguments</em>"<br/> in proceeding of the the 25th International Workshop on <a href="https://cmna-workshop.github.io/cmna25/">Computational Models of Natural Argument (CMNA'25)</a>, <a href="https://ceur-ws.org/Vol-4166/">CEUR Volume #4166</a>, pp. 57-67.<br />
